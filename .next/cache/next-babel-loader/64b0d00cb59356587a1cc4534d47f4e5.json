@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\nexport default (() => __jsx(\"span\", null, \"test\"));","map":{"version":3,"sources":["D:/编程/项目/next项目/next-github/pages/test.js"],"names":[],"mappings":";;AAAA,gBAAe,MAAM,2BAArB","sourcesContent":["export default () => <span>test</span>"]},"metadata":{},"sourceType":"module"}
