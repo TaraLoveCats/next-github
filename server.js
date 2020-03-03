@@ -1,19 +1,23 @@
-const Koa = require('koa');
+const Koa = require('koa')
 const Router = require('koa-router')
 const session = require('koa-session')
-const next = require('next');
+const next = require('next')
 const Redis = require('ioredis')
 const auth = require('./server/auth')
 const RedisSessionStore = require('./server/session-store')
 const api = require('./server/api')
 const koaBody = require('koa-body')
+const atob = require('atob')
+const json = require('./server/json')
 
+//设置node全局增加一个atob方法
+global.atob = atob;
 const redis = new Redis({
     port: 6379
-})
-const dev = process.env.NODE_ENV !== 'production'//开发环境
+});
+const dev = process.env.NODE_ENV !== 'production';//开发环境
 const app = next({ dev })
-const handle = app.getRequestHandler() //处理http请求
+const handle = app.getRequestHandler()//处理http请求
 
 //完成pages下的编译再响应请求
 app.prepare().then(() => {
@@ -21,13 +25,15 @@ app.prepare().then(() => {
     const router = new Router()
 
     server.use(koaBody())
-    server.keys = ['Jokcy develop Github App'] //给cookie加密
+    server.keys = ['Tara develop Github App'];//给cookie加密
     const SESSION_CONFIG = {
-        key: 'jid',
+        key: 'sid',
         store: new RedisSessionStore(redis),
-    }
+    };
     server.use(session(SESSION_CONFIG, server))
 
+    //读取json文件
+    json(server)
     // 配置处理github OAuth的登录
     auth(server)
     //api代理请求github数据

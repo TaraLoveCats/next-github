@@ -1,5 +1,16 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static\\development\\pages\\_app.js"],{
 
+/***/ "./colors.json":
+/*!*********************!*\
+  !*** ./colors.json ***!
+  \*********************/
+/*! exports provided: 1C Enterprise, ABAP, ActionScript, Ada, Agda, AGS Script, Alloy, Alpine Abuild, AMPL, AngelScript, ANTLR, Apex, API Blueprint, APL, Apollo Guidance Computer, AppleScript, Arc, ASP, AspectJ, Assembly, Asymptote, ATS, Augeas, AutoHotkey, AutoIt, Awk, Ballerina, Batchfile, Befunge, Bison, BitBake, BlitzBasic, BlitzMax, Bluespec, Boo, Brainfuck, Brightscript, Bro, C, C#, C++, C2hs Haskell, Cap'n Proto, CartoCSS, Ceylon, Chapel, Charity, ChucK, Cirru, Clarion, Clean, Click, CLIPS, Clojure, CMake, COBOL, CoffeeScript, ColdFusion, ColdFusion CFC, Common Lisp, Common Workflow Language, Component Pascal, Cool, Coq, Crystal, Csound, Csound Document, Csound Score, CSS, Cuda, CWeb, Cycript, Cython, D, Dart, DataWeave, DIGITAL Command Language, DM, Dockerfile, Dogescript, DTrace, Dylan, E, eC, ECL, ECLiPSe, Eiffel, Elixir, Elm, Emacs Lisp, EmberScript, EQ, Erlang, F#, F*, Factor, Fancy, Fantom, Filebench WML, Filterscript, fish, FLUX, Forth, Fortran, FreeMarker, Frege, Game Maker Language, GAMS, GAP, GCC Machine Description, GDB, GDScript, Genie, Genshi, Gentoo Ebuild, Gentoo Eclass, Gherkin, GLSL, Glyph, Gnuplot, Go, Golo, Gosu, Grace, Grammatical Framework, Groovy, Groovy Server Pages, Hack, Harbour, Haskell, Haxe, HCL, HiveQL, HLSL, HTML, Hy, HyPhy, IDL, Idris, IGOR Pro, Inform 7, Inno Setup, Io, Ioke, Isabelle, Isabelle ROOT, J, Jasmin, Java, Java Server Pages, JavaScript, JFlex, Jison, Jison Lex, Jolie, JSONiq, Jsonnet, JSX, Julia, Jupyter Notebook, Kotlin, KRL, LabVIEW, Lasso, Lean, Lex, LFE, LilyPond, Limbo, Literate Agda, Literate CoffeeScript, Literate Haskell, LiveScript, LLVM, Logos, Logtalk, LOLCODE, LookML, LoomScript, LSL, Lua, M, M4, M4Sugar, Makefile, Mako, Mask, Mathematica, MATLAB, Max, MAXScript, mcfunction, Mercury, Meson, Metal, MiniD, Mirah, Modelica, Modula-2, Modula-3, Module Management System, Monkey, Moocode, MoonScript, MQL4, MQL5, MTML, MUF, mupad, Myghty, NCL, Nearley, Nemerle, nesC, NetLinx, NetLinx+ERB, NetLogo, NewLisp, Nextflow, Nim, Nit, Nix, NSIS, Nu, NumPy, Objective-C, Objective-C++, Objective-J, OCaml, Omgrofl, ooc, Opa, Opal, OpenCL, OpenEdge ABL, OpenRC runscript, OpenSCAD, Ox, Oxygene, Oz, P4, Pan, Papyrus, Parrot, Parrot Assembly, Parrot Internal Representation, Pascal, Pawn, Pep8, Perl, Perl 6, PHP, PicoLisp, PigLatin, Pike, PLpgSQL, PLSQL, PogoScript, Pony, PostScript, POV-Ray SDL, PowerBuilder, PowerShell, Processing, Prolog, Propeller Spin, Puppet, PureBasic, PureScript, Python, Python console, q, QMake, QML, Quake, R, Racket, Ragel, RAML, Rascal, REALbasic, Reason, Rebol, Red, Redcode, Ren'Py, RenderScript, REXX, Ring, RobotFramework, Roff, Rouge, RPC, Ruby, RUNOFF, Rust, Sage, SaltStack, SAS, Scala, Scheme, Scilab, sed, Self, ShaderLab, Shell, ShellSession, Shen, Slash, Slice, Smali, Smalltalk, Smarty, SMT, Solidity, SourcePawn, SQF, SQLPL, Squirrel, SRecode Template, Stan, Standard ML, Stata, SuperCollider, Swift, SystemVerilog, Tcl, Tcsh, Terra, TeX, Thrift, TI Program, TLA, Turing, TXL, TypeScript, Unified Parallel C, Unix Assembly, Uno, UnrealScript, UrWeb, Vala, VCL, Verilog, VHDL, Vim script, Visual Basic, Volt, Vue, wdl, WebAssembly, WebIDL, wisp, X10, xBase, XC, Xojo, XProc, XQuery, XS, XSLT, Xtend, Yacc, YARA, YASnippet, ZAP, Zephir, Zig, ZIL, Zimpl, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("{\"1C Enterprise\":{\"color\":\"#814CCC\",\"url\":\"https://github.com/trending?l=1C-Enterprise\"},\"ABAP\":{\"color\":\"#E8274B\",\"url\":\"https://github.com/trending?l=ABAP\"},\"ActionScript\":{\"color\":\"#882B0F\",\"url\":\"https://github.com/trending?l=ActionScript\"},\"Ada\":{\"color\":\"#02f88c\",\"url\":\"https://github.com/trending?l=Ada\"},\"Agda\":{\"color\":\"#315665\",\"url\":\"https://github.com/trending?l=Agda\"},\"AGS Script\":{\"color\":\"#B9D9FF\",\"url\":\"https://github.com/trending?l=AGS-Script\"},\"Alloy\":{\"color\":\"#64C800\",\"url\":\"https://github.com/trending?l=Alloy\"},\"Alpine Abuild\":{\"color\":null,\"url\":\"https://github.com/trending?l=Alpine-Abuild\"},\"AMPL\":{\"color\":\"#E6EFBB\",\"url\":\"https://github.com/trending?l=AMPL\"},\"AngelScript\":{\"color\":\"#C7D7DC\",\"url\":\"https://github.com/trending?l=AngelScript\"},\"ANTLR\":{\"color\":\"#9DC3FF\",\"url\":\"https://github.com/trending?l=ANTLR\"},\"Apex\":{\"color\":null,\"url\":\"https://github.com/trending?l=Apex\"},\"API Blueprint\":{\"color\":\"#2ACCA8\",\"url\":\"https://github.com/trending?l=API-Blueprint\"},\"APL\":{\"color\":\"#5A8164\",\"url\":\"https://github.com/trending?l=APL\"},\"Apollo Guidance Computer\":{\"color\":null,\"url\":\"https://github.com/trending?l=Apollo-Guidance-Computer\"},\"AppleScript\":{\"color\":\"#101F1F\",\"url\":\"https://github.com/trending?l=AppleScript\"},\"Arc\":{\"color\":\"#aa2afe\",\"url\":\"https://github.com/trending?l=Arc\"},\"ASP\":{\"color\":\"#6a40fd\",\"url\":\"https://github.com/trending?l=ASP\"},\"AspectJ\":{\"color\":\"#a957b0\",\"url\":\"https://github.com/trending?l=AspectJ\"},\"Assembly\":{\"color\":\"#6E4C13\",\"url\":\"https://github.com/trending?l=Assembly\"},\"Asymptote\":{\"color\":\"#4a0c0c\",\"url\":\"https://github.com/trending?l=Asymptote\"},\"ATS\":{\"color\":\"#1ac620\",\"url\":\"https://github.com/trending?l=ATS\"},\"Augeas\":{\"color\":null,\"url\":\"https://github.com/trending?l=Augeas\"},\"AutoHotkey\":{\"color\":\"#6594b9\",\"url\":\"https://github.com/trending?l=AutoHotkey\"},\"AutoIt\":{\"color\":\"#1C3552\",\"url\":\"https://github.com/trending?l=AutoIt\"},\"Awk\":{\"color\":null,\"url\":\"https://github.com/trending?l=Awk\"},\"Ballerina\":{\"color\":\"#FF5000\",\"url\":\"https://github.com/trending?l=Ballerina\"},\"Batchfile\":{\"color\":\"#C1F12E\",\"url\":\"https://github.com/trending?l=Batchfile\"},\"Befunge\":{\"color\":null,\"url\":\"https://github.com/trending?l=Befunge\"},\"Bison\":{\"color\":null,\"url\":\"https://github.com/trending?l=Bison\"},\"BitBake\":{\"color\":null,\"url\":\"https://github.com/trending?l=BitBake\"},\"BlitzBasic\":{\"color\":null,\"url\":\"https://github.com/trending?l=BlitzBasic\"},\"BlitzMax\":{\"color\":\"#cd6400\",\"url\":\"https://github.com/trending?l=BlitzMax\"},\"Bluespec\":{\"color\":null,\"url\":\"https://github.com/trending?l=Bluespec\"},\"Boo\":{\"color\":\"#d4bec1\",\"url\":\"https://github.com/trending?l=Boo\"},\"Brainfuck\":{\"color\":\"#2F2530\",\"url\":\"https://github.com/trending?l=Brainfuck\"},\"Brightscript\":{\"color\":null,\"url\":\"https://github.com/trending?l=Brightscript\"},\"Bro\":{\"color\":null,\"url\":\"https://github.com/trending?l=Bro\"},\"C\":{\"color\":\"#555555\",\"url\":\"https://github.com/trending?l=C\"},\"C#\":{\"color\":\"#178600\",\"url\":\"https://github.com/trending?l=Csharp\"},\"C++\":{\"color\":\"#f34b7d\",\"url\":\"https://github.com/trending?l=C++\"},\"C2hs Haskell\":{\"color\":null,\"url\":\"https://github.com/trending?l=C2hs-Haskell\"},\"Cap'n Proto\":{\"color\":null,\"url\":\"https://github.com/trending?l=Cap'n-Proto\"},\"CartoCSS\":{\"color\":null,\"url\":\"https://github.com/trending?l=CartoCSS\"},\"Ceylon\":{\"color\":\"#dfa535\",\"url\":\"https://github.com/trending?l=Ceylon\"},\"Chapel\":{\"color\":\"#8dc63f\",\"url\":\"https://github.com/trending?l=Chapel\"},\"Charity\":{\"color\":null,\"url\":\"https://github.com/trending?l=Charity\"},\"ChucK\":{\"color\":null,\"url\":\"https://github.com/trending?l=ChucK\"},\"Cirru\":{\"color\":\"#ccccff\",\"url\":\"https://github.com/trending?l=Cirru\"},\"Clarion\":{\"color\":\"#db901e\",\"url\":\"https://github.com/trending?l=Clarion\"},\"Clean\":{\"color\":\"#3F85AF\",\"url\":\"https://github.com/trending?l=Clean\"},\"Click\":{\"color\":\"#E4E6F3\",\"url\":\"https://github.com/trending?l=Click\"},\"CLIPS\":{\"color\":null,\"url\":\"https://github.com/trending?l=CLIPS\"},\"Clojure\":{\"color\":\"#db5855\",\"url\":\"https://github.com/trending?l=Clojure\"},\"CMake\":{\"color\":null,\"url\":\"https://github.com/trending?l=CMake\"},\"COBOL\":{\"color\":null,\"url\":\"https://github.com/trending?l=COBOL\"},\"CoffeeScript\":{\"color\":\"#244776\",\"url\":\"https://github.com/trending?l=CoffeeScript\"},\"ColdFusion\":{\"color\":\"#ed2cd6\",\"url\":\"https://github.com/trending?l=ColdFusion\"},\"ColdFusion CFC\":{\"color\":null,\"url\":\"https://github.com/trending?l=ColdFusion-CFC\"},\"Common Lisp\":{\"color\":\"#3fb68b\",\"url\":\"https://github.com/trending?l=Common-Lisp\"},\"Common Workflow Language\":{\"color\":\"#B5314C\",\"url\":\"https://github.com/trending?l=Common-Workflow-Language\"},\"Component Pascal\":{\"color\":\"#B0CE4E\",\"url\":\"https://github.com/trending?l=Component-Pascal\"},\"Cool\":{\"color\":null,\"url\":\"https://github.com/trending?l=Cool\"},\"Coq\":{\"color\":null,\"url\":\"https://github.com/trending?l=Coq\"},\"Crystal\":{\"color\":\"#000100\",\"url\":\"https://github.com/trending?l=Crystal\"},\"Csound\":{\"color\":null,\"url\":\"https://github.com/trending?l=Csound\"},\"Csound Document\":{\"color\":null,\"url\":\"https://github.com/trending?l=Csound-Document\"},\"Csound Score\":{\"color\":null,\"url\":\"https://github.com/trending?l=Csound-Score\"},\"CSS\":{\"color\":\"#563d7c\",\"url\":\"https://github.com/trending?l=CSS\"},\"Cuda\":{\"color\":\"#3A4E3A\",\"url\":\"https://github.com/trending?l=Cuda\"},\"CWeb\":{\"color\":null,\"url\":\"https://github.com/trending?l=CWeb\"},\"Cycript\":{\"color\":null,\"url\":\"https://github.com/trending?l=Cycript\"},\"Cython\":{\"color\":null,\"url\":\"https://github.com/trending?l=Cython\"},\"D\":{\"color\":\"#ba595e\",\"url\":\"https://github.com/trending?l=D\"},\"Dart\":{\"color\":\"#00B4AB\",\"url\":\"https://github.com/trending?l=Dart\"},\"DataWeave\":{\"color\":\"#003a52\",\"url\":\"https://github.com/trending?l=DataWeave\"},\"DIGITAL Command Language\":{\"color\":null,\"url\":\"https://github.com/trending?l=DIGITAL-Command-Language\"},\"DM\":{\"color\":\"#447265\",\"url\":\"https://github.com/trending?l=DM\"},\"Dockerfile\":{\"color\":\"#384d54\",\"url\":\"https://github.com/trending?l=Dockerfile\"},\"Dogescript\":{\"color\":\"#cca760\",\"url\":\"https://github.com/trending?l=Dogescript\"},\"DTrace\":{\"color\":null,\"url\":\"https://github.com/trending?l=DTrace\"},\"Dylan\":{\"color\":\"#6c616e\",\"url\":\"https://github.com/trending?l=Dylan\"},\"E\":{\"color\":\"#ccce35\",\"url\":\"https://github.com/trending?l=E\"},\"eC\":{\"color\":\"#913960\",\"url\":\"https://github.com/trending?l=eC\"},\"ECL\":{\"color\":\"#8a1267\",\"url\":\"https://github.com/trending?l=ECL\"},\"ECLiPSe\":{\"color\":null,\"url\":\"https://github.com/trending?l=ECLiPSe\"},\"Eiffel\":{\"color\":\"#946d57\",\"url\":\"https://github.com/trending?l=Eiffel\"},\"Elixir\":{\"color\":\"#6e4a7e\",\"url\":\"https://github.com/trending?l=Elixir\"},\"Elm\":{\"color\":\"#60B5CC\",\"url\":\"https://github.com/trending?l=Elm\"},\"Emacs Lisp\":{\"color\":\"#c065db\",\"url\":\"https://github.com/trending?l=Emacs-Lisp\"},\"EmberScript\":{\"color\":\"#FFF4F3\",\"url\":\"https://github.com/trending?l=EmberScript\"},\"EQ\":{\"color\":\"#a78649\",\"url\":\"https://github.com/trending?l=EQ\"},\"Erlang\":{\"color\":\"#B83998\",\"url\":\"https://github.com/trending?l=Erlang\"},\"F#\":{\"color\":\"#b845fc\",\"url\":\"https://github.com/trending?l=Fsharp\"},\"F*\":{\"color\":\"#572e30\",\"url\":\"https://github.com/trending?l=F*\"},\"Factor\":{\"color\":\"#636746\",\"url\":\"https://github.com/trending?l=Factor\"},\"Fancy\":{\"color\":\"#7b9db4\",\"url\":\"https://github.com/trending?l=Fancy\"},\"Fantom\":{\"color\":\"#14253c\",\"url\":\"https://github.com/trending?l=Fantom\"},\"Filebench WML\":{\"color\":null,\"url\":\"https://github.com/trending?l=Filebench-WML\"},\"Filterscript\":{\"color\":null,\"url\":\"https://github.com/trending?l=Filterscript\"},\"fish\":{\"color\":null,\"url\":\"https://github.com/trending?l=fish\"},\"FLUX\":{\"color\":\"#88ccff\",\"url\":\"https://github.com/trending?l=FLUX\"},\"Forth\":{\"color\":\"#341708\",\"url\":\"https://github.com/trending?l=Forth\"},\"Fortran\":{\"color\":\"#4d41b1\",\"url\":\"https://github.com/trending?l=Fortran\"},\"FreeMarker\":{\"color\":\"#0050b2\",\"url\":\"https://github.com/trending?l=FreeMarker\"},\"Frege\":{\"color\":\"#00cafe\",\"url\":\"https://github.com/trending?l=Frege\"},\"Game Maker Language\":{\"color\":\"#71b417\",\"url\":\"https://github.com/trending?l=Game-Maker-Language\"},\"GAMS\":{\"color\":null,\"url\":\"https://github.com/trending?l=GAMS\"},\"GAP\":{\"color\":null,\"url\":\"https://github.com/trending?l=GAP\"},\"GCC Machine Description\":{\"color\":null,\"url\":\"https://github.com/trending?l=GCC-Machine-Description\"},\"GDB\":{\"color\":null,\"url\":\"https://github.com/trending?l=GDB\"},\"GDScript\":{\"color\":\"#355570\",\"url\":\"https://github.com/trending?l=GDScript\"},\"Genie\":{\"color\":\"#fb855d\",\"url\":\"https://github.com/trending?l=Genie\"},\"Genshi\":{\"color\":null,\"url\":\"https://github.com/trending?l=Genshi\"},\"Gentoo Ebuild\":{\"color\":null,\"url\":\"https://github.com/trending?l=Gentoo-Ebuild\"},\"Gentoo Eclass\":{\"color\":null,\"url\":\"https://github.com/trending?l=Gentoo-Eclass\"},\"Gherkin\":{\"color\":\"#5B2063\",\"url\":\"https://github.com/trending?l=Gherkin\"},\"GLSL\":{\"color\":null,\"url\":\"https://github.com/trending?l=GLSL\"},\"Glyph\":{\"color\":\"#c1ac7f\",\"url\":\"https://github.com/trending?l=Glyph\"},\"Gnuplot\":{\"color\":\"#f0a9f0\",\"url\":\"https://github.com/trending?l=Gnuplot\"},\"Go\":{\"color\":\"#00ADD8\",\"url\":\"https://github.com/trending?l=Go\"},\"Golo\":{\"color\":\"#88562A\",\"url\":\"https://github.com/trending?l=Golo\"},\"Gosu\":{\"color\":\"#82937f\",\"url\":\"https://github.com/trending?l=Gosu\"},\"Grace\":{\"color\":null,\"url\":\"https://github.com/trending?l=Grace\"},\"Grammatical Framework\":{\"color\":\"#79aa7a\",\"url\":\"https://github.com/trending?l=Grammatical-Framework\"},\"Groovy\":{\"color\":\"#e69f56\",\"url\":\"https://github.com/trending?l=Groovy\"},\"Groovy Server Pages\":{\"color\":null,\"url\":\"https://github.com/trending?l=Groovy-Server-Pages\"},\"Hack\":{\"color\":\"#878787\",\"url\":\"https://github.com/trending?l=Hack\"},\"Harbour\":{\"color\":\"#0e60e3\",\"url\":\"https://github.com/trending?l=Harbour\"},\"Haskell\":{\"color\":\"#5e5086\",\"url\":\"https://github.com/trending?l=Haskell\"},\"Haxe\":{\"color\":\"#df7900\",\"url\":\"https://github.com/trending?l=Haxe\"},\"HCL\":{\"color\":null,\"url\":\"https://github.com/trending?l=HCL\"},\"HiveQL\":{\"color\":\"#dce200\",\"url\":\"https://github.com/trending?l=HiveQL\"},\"HLSL\":{\"color\":null,\"url\":\"https://github.com/trending?l=HLSL\"},\"HTML\":{\"color\":\"#e34c26\",\"url\":\"https://github.com/trending?l=HTML\"},\"Hy\":{\"color\":\"#7790B2\",\"url\":\"https://github.com/trending?l=Hy\"},\"HyPhy\":{\"color\":null,\"url\":\"https://github.com/trending?l=HyPhy\"},\"IDL\":{\"color\":\"#a3522f\",\"url\":\"https://github.com/trending?l=IDL\"},\"Idris\":{\"color\":\"#b30000\",\"url\":\"https://github.com/trending?l=Idris\"},\"IGOR Pro\":{\"color\":null,\"url\":\"https://github.com/trending?l=IGOR-Pro\"},\"Inform 7\":{\"color\":null,\"url\":\"https://github.com/trending?l=Inform-7\"},\"Inno Setup\":{\"color\":null,\"url\":\"https://github.com/trending?l=Inno-Setup\"},\"Io\":{\"color\":\"#a9188d\",\"url\":\"https://github.com/trending?l=Io\"},\"Ioke\":{\"color\":\"#078193\",\"url\":\"https://github.com/trending?l=Ioke\"},\"Isabelle\":{\"color\":\"#FEFE00\",\"url\":\"https://github.com/trending?l=Isabelle\"},\"Isabelle ROOT\":{\"color\":null,\"url\":\"https://github.com/trending?l=Isabelle-ROOT\"},\"J\":{\"color\":\"#9EEDFF\",\"url\":\"https://github.com/trending?l=J\"},\"Jasmin\":{\"color\":null,\"url\":\"https://github.com/trending?l=Jasmin\"},\"Java\":{\"color\":\"#b07219\",\"url\":\"https://github.com/trending?l=Java\"},\"Java Server Pages\":{\"color\":null,\"url\":\"https://github.com/trending?l=Java-Server-Pages\"},\"JavaScript\":{\"color\":\"#f1e05a\",\"url\":\"https://github.com/trending?l=JavaScript\"},\"JFlex\":{\"color\":null,\"url\":\"https://github.com/trending?l=JFlex\"},\"Jison\":{\"color\":null,\"url\":\"https://github.com/trending?l=Jison\"},\"Jison Lex\":{\"color\":null,\"url\":\"https://github.com/trending?l=Jison-Lex\"},\"Jolie\":{\"color\":\"#843179\",\"url\":\"https://github.com/trending?l=Jolie\"},\"JSONiq\":{\"color\":\"#40d47e\",\"url\":\"https://github.com/trending?l=JSONiq\"},\"Jsonnet\":{\"color\":\"#0064bd\",\"url\":\"https://github.com/trending?l=Jsonnet\"},\"JSX\":{\"color\":null,\"url\":\"https://github.com/trending?l=JSX\"},\"Julia\":{\"color\":\"#a270ba\",\"url\":\"https://github.com/trending?l=Julia\"},\"Jupyter Notebook\":{\"color\":\"#DA5B0B\",\"url\":\"https://github.com/trending?l=Jupyter-Notebook\"},\"Kotlin\":{\"color\":\"#F18E33\",\"url\":\"https://github.com/trending?l=Kotlin\"},\"KRL\":{\"color\":\"#28430A\",\"url\":\"https://github.com/trending?l=KRL\"},\"LabVIEW\":{\"color\":null,\"url\":\"https://github.com/trending?l=LabVIEW\"},\"Lasso\":{\"color\":\"#999999\",\"url\":\"https://github.com/trending?l=Lasso\"},\"Lean\":{\"color\":null,\"url\":\"https://github.com/trending?l=Lean\"},\"Lex\":{\"color\":\"#DBCA00\",\"url\":\"https://github.com/trending?l=Lex\"},\"LFE\":{\"color\":\"#4C3023\",\"url\":\"https://github.com/trending?l=LFE\"},\"LilyPond\":{\"color\":null,\"url\":\"https://github.com/trending?l=LilyPond\"},\"Limbo\":{\"color\":null,\"url\":\"https://github.com/trending?l=Limbo\"},\"Literate Agda\":{\"color\":null,\"url\":\"https://github.com/trending?l=Literate-Agda\"},\"Literate CoffeeScript\":{\"color\":null,\"url\":\"https://github.com/trending?l=Literate-CoffeeScript\"},\"Literate Haskell\":{\"color\":null,\"url\":\"https://github.com/trending?l=Literate-Haskell\"},\"LiveScript\":{\"color\":\"#499886\",\"url\":\"https://github.com/trending?l=LiveScript\"},\"LLVM\":{\"color\":\"#185619\",\"url\":\"https://github.com/trending?l=LLVM\"},\"Logos\":{\"color\":null,\"url\":\"https://github.com/trending?l=Logos\"},\"Logtalk\":{\"color\":null,\"url\":\"https://github.com/trending?l=Logtalk\"},\"LOLCODE\":{\"color\":\"#cc9900\",\"url\":\"https://github.com/trending?l=LOLCODE\"},\"LookML\":{\"color\":\"#652B81\",\"url\":\"https://github.com/trending?l=LookML\"},\"LoomScript\":{\"color\":null,\"url\":\"https://github.com/trending?l=LoomScript\"},\"LSL\":{\"color\":\"#3d9970\",\"url\":\"https://github.com/trending?l=LSL\"},\"Lua\":{\"color\":\"#000080\",\"url\":\"https://github.com/trending?l=Lua\"},\"M\":{\"color\":null,\"url\":\"https://github.com/trending?l=M\"},\"M4\":{\"color\":null,\"url\":\"https://github.com/trending?l=M4\"},\"M4Sugar\":{\"color\":null,\"url\":\"https://github.com/trending?l=M4Sugar\"},\"Makefile\":{\"color\":\"#427819\",\"url\":\"https://github.com/trending?l=Makefile\"},\"Mako\":{\"color\":null,\"url\":\"https://github.com/trending?l=Mako\"},\"Mask\":{\"color\":\"#f97732\",\"url\":\"https://github.com/trending?l=Mask\"},\"Mathematica\":{\"color\":null,\"url\":\"https://github.com/trending?l=Mathematica\"},\"MATLAB\":{\"color\":\"#e16737\",\"url\":\"https://github.com/trending?l=MATLAB\"},\"Max\":{\"color\":\"#c4a79c\",\"url\":\"https://github.com/trending?l=Max\"},\"MAXScript\":{\"color\":\"#00a6a6\",\"url\":\"https://github.com/trending?l=MAXScript\"},\"mcfunction\":{\"color\":\"#E22837\",\"url\":\"https://github.com/trending?l=mcfunction\"},\"Mercury\":{\"color\":\"#ff2b2b\",\"url\":\"https://github.com/trending?l=Mercury\"},\"Meson\":{\"color\":\"#007800\",\"url\":\"https://github.com/trending?l=Meson\"},\"Metal\":{\"color\":\"#8f14e9\",\"url\":\"https://github.com/trending?l=Metal\"},\"MiniD\":{\"color\":null,\"url\":\"https://github.com/trending?l=MiniD\"},\"Mirah\":{\"color\":\"#c7a938\",\"url\":\"https://github.com/trending?l=Mirah\"},\"Modelica\":{\"color\":null,\"url\":\"https://github.com/trending?l=Modelica\"},\"Modula-2\":{\"color\":null,\"url\":\"https://github.com/trending?l=Modula-2\"},\"Modula-3\":{\"color\":\"#223388\",\"url\":\"https://github.com/trending?l=Modula-3\"},\"Module Management System\":{\"color\":null,\"url\":\"https://github.com/trending?l=Module-Management-System\"},\"Monkey\":{\"color\":null,\"url\":\"https://github.com/trending?l=Monkey\"},\"Moocode\":{\"color\":null,\"url\":\"https://github.com/trending?l=Moocode\"},\"MoonScript\":{\"color\":null,\"url\":\"https://github.com/trending?l=MoonScript\"},\"MQL4\":{\"color\":\"#62A8D6\",\"url\":\"https://github.com/trending?l=MQL4\"},\"MQL5\":{\"color\":\"#4A76B8\",\"url\":\"https://github.com/trending?l=MQL5\"},\"MTML\":{\"color\":\"#b7e1f4\",\"url\":\"https://github.com/trending?l=MTML\"},\"MUF\":{\"color\":null,\"url\":\"https://github.com/trending?l=MUF\"},\"mupad\":{\"color\":null,\"url\":\"https://github.com/trending?l=mupad\"},\"Myghty\":{\"color\":null,\"url\":\"https://github.com/trending?l=Myghty\"},\"NCL\":{\"color\":\"#28431f\",\"url\":\"https://github.com/trending?l=NCL\"},\"Nearley\":{\"color\":\"#990000\",\"url\":\"https://github.com/trending?l=Nearley\"},\"Nemerle\":{\"color\":\"#3d3c6e\",\"url\":\"https://github.com/trending?l=Nemerle\"},\"nesC\":{\"color\":\"#94B0C7\",\"url\":\"https://github.com/trending?l=nesC\"},\"NetLinx\":{\"color\":\"#0aa0ff\",\"url\":\"https://github.com/trending?l=NetLinx\"},\"NetLinx+ERB\":{\"color\":\"#747faa\",\"url\":\"https://github.com/trending?l=NetLinx+ERB\"},\"NetLogo\":{\"color\":\"#ff6375\",\"url\":\"https://github.com/trending?l=NetLogo\"},\"NewLisp\":{\"color\":\"#87AED7\",\"url\":\"https://github.com/trending?l=NewLisp\"},\"Nextflow\":{\"color\":\"#3ac486\",\"url\":\"https://github.com/trending?l=Nextflow\"},\"Nim\":{\"color\":\"#37775b\",\"url\":\"https://github.com/trending?l=Nim\"},\"Nit\":{\"color\":\"#009917\",\"url\":\"https://github.com/trending?l=Nit\"},\"Nix\":{\"color\":\"#7e7eff\",\"url\":\"https://github.com/trending?l=Nix\"},\"NSIS\":{\"color\":null,\"url\":\"https://github.com/trending?l=NSIS\"},\"Nu\":{\"color\":\"#c9df40\",\"url\":\"https://github.com/trending?l=Nu\"},\"NumPy\":{\"color\":null,\"url\":\"https://github.com/trending?l=NumPy\"},\"Objective-C\":{\"color\":\"#438eff\",\"url\":\"https://github.com/trending?l=Objective-C\"},\"Objective-C++\":{\"color\":\"#6866fb\",\"url\":\"https://github.com/trending?l=Objective-C++\"},\"Objective-J\":{\"color\":\"#ff0c5a\",\"url\":\"https://github.com/trending?l=Objective-J\"},\"OCaml\":{\"color\":\"#3be133\",\"url\":\"https://github.com/trending?l=OCaml\"},\"Omgrofl\":{\"color\":\"#cabbff\",\"url\":\"https://github.com/trending?l=Omgrofl\"},\"ooc\":{\"color\":\"#b0b77e\",\"url\":\"https://github.com/trending?l=ooc\"},\"Opa\":{\"color\":null,\"url\":\"https://github.com/trending?l=Opa\"},\"Opal\":{\"color\":\"#f7ede0\",\"url\":\"https://github.com/trending?l=Opal\"},\"OpenCL\":{\"color\":null,\"url\":\"https://github.com/trending?l=OpenCL\"},\"OpenEdge ABL\":{\"color\":null,\"url\":\"https://github.com/trending?l=OpenEdge-ABL\"},\"OpenRC runscript\":{\"color\":null,\"url\":\"https://github.com/trending?l=OpenRC-runscript\"},\"OpenSCAD\":{\"color\":null,\"url\":\"https://github.com/trending?l=OpenSCAD\"},\"Ox\":{\"color\":null,\"url\":\"https://github.com/trending?l=Ox\"},\"Oxygene\":{\"color\":\"#cdd0e3\",\"url\":\"https://github.com/trending?l=Oxygene\"},\"Oz\":{\"color\":\"#fab738\",\"url\":\"https://github.com/trending?l=Oz\"},\"P4\":{\"color\":\"#7055b5\",\"url\":\"https://github.com/trending?l=P4\"},\"Pan\":{\"color\":\"#cc0000\",\"url\":\"https://github.com/trending?l=Pan\"},\"Papyrus\":{\"color\":\"#6600cc\",\"url\":\"https://github.com/trending?l=Papyrus\"},\"Parrot\":{\"color\":\"#f3ca0a\",\"url\":\"https://github.com/trending?l=Parrot\"},\"Parrot Assembly\":{\"color\":null,\"url\":\"https://github.com/trending?l=Parrot-Assembly\"},\"Parrot Internal Representation\":{\"color\":null,\"url\":\"https://github.com/trending?l=Parrot-Internal-Representation\"},\"Pascal\":{\"color\":\"#E3F171\",\"url\":\"https://github.com/trending?l=Pascal\"},\"Pawn\":{\"color\":\"#dbb284\",\"url\":\"https://github.com/trending?l=Pawn\"},\"Pep8\":{\"color\":\"#C76F5B\",\"url\":\"https://github.com/trending?l=Pep8\"},\"Perl\":{\"color\":\"#0298c3\",\"url\":\"https://github.com/trending?l=Perl\"},\"Perl 6\":{\"color\":\"#0000fb\",\"url\":\"https://github.com/trending?l=Perl-6\"},\"PHP\":{\"color\":\"#4F5D95\",\"url\":\"https://github.com/trending?l=PHP\"},\"PicoLisp\":{\"color\":null,\"url\":\"https://github.com/trending?l=PicoLisp\"},\"PigLatin\":{\"color\":\"#fcd7de\",\"url\":\"https://github.com/trending?l=PigLatin\"},\"Pike\":{\"color\":\"#005390\",\"url\":\"https://github.com/trending?l=Pike\"},\"PLpgSQL\":{\"color\":null,\"url\":\"https://github.com/trending?l=PLpgSQL\"},\"PLSQL\":{\"color\":\"#dad8d8\",\"url\":\"https://github.com/trending?l=PLSQL\"},\"PogoScript\":{\"color\":\"#d80074\",\"url\":\"https://github.com/trending?l=PogoScript\"},\"Pony\":{\"color\":null,\"url\":\"https://github.com/trending?l=Pony\"},\"PostScript\":{\"color\":\"#da291c\",\"url\":\"https://github.com/trending?l=PostScript\"},\"POV-Ray SDL\":{\"color\":null,\"url\":\"https://github.com/trending?l=POV-Ray-SDL\"},\"PowerBuilder\":{\"color\":\"#8f0f8d\",\"url\":\"https://github.com/trending?l=PowerBuilder\"},\"PowerShell\":{\"color\":\"#012456\",\"url\":\"https://github.com/trending?l=PowerShell\"},\"Processing\":{\"color\":\"#0096D8\",\"url\":\"https://github.com/trending?l=Processing\"},\"Prolog\":{\"color\":\"#74283c\",\"url\":\"https://github.com/trending?l=Prolog\"},\"Propeller Spin\":{\"color\":\"#7fa2a7\",\"url\":\"https://github.com/trending?l=Propeller-Spin\"},\"Puppet\":{\"color\":\"#302B6D\",\"url\":\"https://github.com/trending?l=Puppet\"},\"PureBasic\":{\"color\":\"#5a6986\",\"url\":\"https://github.com/trending?l=PureBasic\"},\"PureScript\":{\"color\":\"#1D222D\",\"url\":\"https://github.com/trending?l=PureScript\"},\"Python\":{\"color\":\"#3572A5\",\"url\":\"https://github.com/trending?l=Python\"},\"Python console\":{\"color\":null,\"url\":\"https://github.com/trending?l=Python-console\"},\"q\":{\"color\":\"#0040cd\",\"url\":\"https://github.com/trending?l=q\"},\"QMake\":{\"color\":null,\"url\":\"https://github.com/trending?l=QMake\"},\"QML\":{\"color\":\"#44a51c\",\"url\":\"https://github.com/trending?l=QML\"},\"Quake\":{\"color\":\"#882233\",\"url\":\"https://github.com/trending?l=Quake\"},\"R\":{\"color\":\"#198CE7\",\"url\":\"https://github.com/trending?l=R\"},\"Racket\":{\"color\":\"#3c5caa\",\"url\":\"https://github.com/trending?l=Racket\"},\"Ragel\":{\"color\":\"#9d5200\",\"url\":\"https://github.com/trending?l=Ragel\"},\"RAML\":{\"color\":\"#77d9fb\",\"url\":\"https://github.com/trending?l=RAML\"},\"Rascal\":{\"color\":\"#fffaa0\",\"url\":\"https://github.com/trending?l=Rascal\"},\"REALbasic\":{\"color\":null,\"url\":\"https://github.com/trending?l=REALbasic\"},\"Reason\":{\"color\":null,\"url\":\"https://github.com/trending?l=Reason\"},\"Rebol\":{\"color\":\"#358a5b\",\"url\":\"https://github.com/trending?l=Rebol\"},\"Red\":{\"color\":\"#f50000\",\"url\":\"https://github.com/trending?l=Red\"},\"Redcode\":{\"color\":null,\"url\":\"https://github.com/trending?l=Redcode\"},\"Ren'Py\":{\"color\":\"#ff7f7f\",\"url\":\"https://github.com/trending?l=Ren'Py\"},\"RenderScript\":{\"color\":null,\"url\":\"https://github.com/trending?l=RenderScript\"},\"REXX\":{\"color\":null,\"url\":\"https://github.com/trending?l=REXX\"},\"Ring\":{\"color\":\"#2D54CB\",\"url\":\"https://github.com/trending?l=Ring\"},\"RobotFramework\":{\"color\":null,\"url\":\"https://github.com/trending?l=RobotFramework\"},\"Roff\":{\"color\":\"#ecdebe\",\"url\":\"https://github.com/trending?l=Roff\"},\"Rouge\":{\"color\":\"#cc0088\",\"url\":\"https://github.com/trending?l=Rouge\"},\"RPC\":{\"color\":null,\"url\":\"https://github.com/trending?l=RPC\"},\"Ruby\":{\"color\":\"#701516\",\"url\":\"https://github.com/trending?l=Ruby\"},\"RUNOFF\":{\"color\":\"#665a4e\",\"url\":\"https://github.com/trending?l=RUNOFF\"},\"Rust\":{\"color\":\"#dea584\",\"url\":\"https://github.com/trending?l=Rust\"},\"Sage\":{\"color\":null,\"url\":\"https://github.com/trending?l=Sage\"},\"SaltStack\":{\"color\":\"#646464\",\"url\":\"https://github.com/trending?l=SaltStack\"},\"SAS\":{\"color\":\"#B34936\",\"url\":\"https://github.com/trending?l=SAS\"},\"Scala\":{\"color\":\"#c22d40\",\"url\":\"https://github.com/trending?l=Scala\"},\"Scheme\":{\"color\":\"#1e4aec\",\"url\":\"https://github.com/trending?l=Scheme\"},\"Scilab\":{\"color\":null,\"url\":\"https://github.com/trending?l=Scilab\"},\"sed\":{\"color\":\"#64b970\",\"url\":\"https://github.com/trending?l=sed\"},\"Self\":{\"color\":\"#0579aa\",\"url\":\"https://github.com/trending?l=Self\"},\"ShaderLab\":{\"color\":null,\"url\":\"https://github.com/trending?l=ShaderLab\"},\"Shell\":{\"color\":\"#89e051\",\"url\":\"https://github.com/trending?l=Shell\"},\"ShellSession\":{\"color\":null,\"url\":\"https://github.com/trending?l=ShellSession\"},\"Shen\":{\"color\":\"#120F14\",\"url\":\"https://github.com/trending?l=Shen\"},\"Slash\":{\"color\":\"#007eff\",\"url\":\"https://github.com/trending?l=Slash\"},\"Slice\":{\"color\":\"#003fa2\",\"url\":\"https://github.com/trending?l=Slice\"},\"Smali\":{\"color\":null,\"url\":\"https://github.com/trending?l=Smali\"},\"Smalltalk\":{\"color\":\"#596706\",\"url\":\"https://github.com/trending?l=Smalltalk\"},\"Smarty\":{\"color\":null,\"url\":\"https://github.com/trending?l=Smarty\"},\"SMT\":{\"color\":null,\"url\":\"https://github.com/trending?l=SMT\"},\"Solidity\":{\"color\":\"#AA6746\",\"url\":\"https://github.com/trending?l=Solidity\"},\"SourcePawn\":{\"color\":\"#5c7611\",\"url\":\"https://github.com/trending?l=SourcePawn\"},\"SQF\":{\"color\":\"#3F3F3F\",\"url\":\"https://github.com/trending?l=SQF\"},\"SQLPL\":{\"color\":null,\"url\":\"https://github.com/trending?l=SQLPL\"},\"Squirrel\":{\"color\":\"#800000\",\"url\":\"https://github.com/trending?l=Squirrel\"},\"SRecode Template\":{\"color\":\"#348a34\",\"url\":\"https://github.com/trending?l=SRecode-Template\"},\"Stan\":{\"color\":\"#b2011d\",\"url\":\"https://github.com/trending?l=Stan\"},\"Standard ML\":{\"color\":\"#dc566d\",\"url\":\"https://github.com/trending?l=Standard-ML\"},\"Stata\":{\"color\":null,\"url\":\"https://github.com/trending?l=Stata\"},\"SuperCollider\":{\"color\":\"#46390b\",\"url\":\"https://github.com/trending?l=SuperCollider\"},\"Swift\":{\"color\":\"#ffac45\",\"url\":\"https://github.com/trending?l=Swift\"},\"SystemVerilog\":{\"color\":\"#DAE1C2\",\"url\":\"https://github.com/trending?l=SystemVerilog\"},\"Tcl\":{\"color\":\"#e4cc98\",\"url\":\"https://github.com/trending?l=Tcl\"},\"Tcsh\":{\"color\":null,\"url\":\"https://github.com/trending?l=Tcsh\"},\"Terra\":{\"color\":\"#00004c\",\"url\":\"https://github.com/trending?l=Terra\"},\"TeX\":{\"color\":\"#3D6117\",\"url\":\"https://github.com/trending?l=TeX\"},\"Thrift\":{\"color\":null,\"url\":\"https://github.com/trending?l=Thrift\"},\"TI Program\":{\"color\":\"#A0AA87\",\"url\":\"https://github.com/trending?l=TI-Program\"},\"TLA\":{\"color\":null,\"url\":\"https://github.com/trending?l=TLA\"},\"Turing\":{\"color\":\"#cf142b\",\"url\":\"https://github.com/trending?l=Turing\"},\"TXL\":{\"color\":null,\"url\":\"https://github.com/trending?l=TXL\"},\"TypeScript\":{\"color\":\"#2b7489\",\"url\":\"https://github.com/trending?l=TypeScript\"},\"Unified Parallel C\":{\"color\":null,\"url\":\"https://github.com/trending?l=Unified-Parallel-C\"},\"Unix Assembly\":{\"color\":null,\"url\":\"https://github.com/trending?l=Unix-Assembly\"},\"Uno\":{\"color\":null,\"url\":\"https://github.com/trending?l=Uno\"},\"UnrealScript\":{\"color\":\"#a54c4d\",\"url\":\"https://github.com/trending?l=UnrealScript\"},\"UrWeb\":{\"color\":null,\"url\":\"https://github.com/trending?l=UrWeb\"},\"Vala\":{\"color\":\"#fbe5cd\",\"url\":\"https://github.com/trending?l=Vala\"},\"VCL\":{\"color\":\"#148AA8\",\"url\":\"https://github.com/trending?l=VCL\"},\"Verilog\":{\"color\":\"#b2b7f8\",\"url\":\"https://github.com/trending?l=Verilog\"},\"VHDL\":{\"color\":\"#adb2cb\",\"url\":\"https://github.com/trending?l=VHDL\"},\"Vim script\":{\"color\":\"#199f4b\",\"url\":\"https://github.com/trending?l=Vim-script\"},\"Visual Basic\":{\"color\":\"#945db7\",\"url\":\"https://github.com/trending?l=Visual-Basic\"},\"Volt\":{\"color\":\"#1F1F1F\",\"url\":\"https://github.com/trending?l=Volt\"},\"Vue\":{\"color\":\"#2c3e50\",\"url\":\"https://github.com/trending?l=Vue\"},\"wdl\":{\"color\":\"#42f1f4\",\"url\":\"https://github.com/trending?l=wdl\"},\"WebAssembly\":{\"color\":\"#04133b\",\"url\":\"https://github.com/trending?l=WebAssembly\"},\"WebIDL\":{\"color\":null,\"url\":\"https://github.com/trending?l=WebIDL\"},\"wisp\":{\"color\":\"#7582D1\",\"url\":\"https://github.com/trending?l=wisp\"},\"X10\":{\"color\":\"#4B6BEF\",\"url\":\"https://github.com/trending?l=X10\"},\"xBase\":{\"color\":\"#403a40\",\"url\":\"https://github.com/trending?l=xBase\"},\"XC\":{\"color\":\"#99DA07\",\"url\":\"https://github.com/trending?l=XC\"},\"Xojo\":{\"color\":null,\"url\":\"https://github.com/trending?l=Xojo\"},\"XProc\":{\"color\":null,\"url\":\"https://github.com/trending?l=XProc\"},\"XQuery\":{\"color\":\"#5232e7\",\"url\":\"https://github.com/trending?l=XQuery\"},\"XS\":{\"color\":null,\"url\":\"https://github.com/trending?l=XS\"},\"XSLT\":{\"color\":\"#EB8CEB\",\"url\":\"https://github.com/trending?l=XSLT\"},\"Xtend\":{\"color\":null,\"url\":\"https://github.com/trending?l=Xtend\"},\"Yacc\":{\"color\":\"#4B6C4B\",\"url\":\"https://github.com/trending?l=Yacc\"},\"YARA\":{\"color\":\"#220000\",\"url\":\"https://github.com/trending?l=YARA\"},\"YASnippet\":{\"color\":\"#32AB90\",\"url\":\"https://github.com/trending?l=YASnippet\"},\"ZAP\":{\"color\":\"#0d665e\",\"url\":\"https://github.com/trending?l=ZAP\"},\"Zephir\":{\"color\":\"#118f9e\",\"url\":\"https://github.com/trending?l=Zephir\"},\"Zig\":{\"color\":\"#ec915c\",\"url\":\"https://github.com/trending?l=Zig\"},\"ZIL\":{\"color\":\"#dc75e5\",\"url\":\"https://github.com/trending?l=ZIL\"},\"Zimpl\":{\"color\":null,\"url\":\"https://github.com/trending?l=Zimpl\"}}");
+
+/***/ }),
+
 /***/ "./components/Container.jsx":
 /*!**********************************!*\
   !*** ./components/Container.jsx ***!
@@ -135,10 +146,10 @@ var githubIconStyle = {
   marginRight: 20
 };
 
-var AppLayout = function AppLayout(_ref) {
+function AppLayout(_ref) {
   var children = _ref.children;
   var router = Object(next_router__WEBPACK_IMPORTED_MODULE_13__["useRouter"])();
-  var urlQuery = router.query && router.query.query;
+  var urlQuery = router.query && router.query.q;
 
   var _useState = Object(react__WEBPACK_IMPORTED_MODULE_8__["useState"])(urlQuery || ''),
       search = _useState[0],
@@ -152,7 +163,7 @@ var AppLayout = function AppLayout(_ref) {
     setSearch(e.target.value);
   }, []);
   var handleOnSearch = Object(react__WEBPACK_IMPORTED_MODULE_8__["useCallback"])(function () {
-    router.push("/search?query=".concat(search));
+    router.push("/search?q=".concat(search));
   }, [search]);
   var handleLogout = Object(react__WEBPACK_IMPORTED_MODULE_8__["useCallback"])(function () {
     dispatch(Object(_store_store__WEBPACK_IMPORTED_MODULE_12__["logout"])());
@@ -160,7 +171,7 @@ var AppLayout = function AppLayout(_ref) {
 
   var userDropdown = __jsx(antd_lib_menu__WEBPACK_IMPORTED_MODULE_5___default.a, {
     onClick: handleLogout
-  }, __jsx(antd_lib_menu__WEBPACK_IMPORTED_MODULE_5___default.a.Item, null, "\u767B\u51FA"));
+  }, __jsx(antd_lib_menu__WEBPACK_IMPORTED_MODULE_5___default.a.Item, null, "log out"));
 
   return __jsx(antd_lib_layout__WEBPACK_IMPORTED_MODULE_6___default.a, null, __jsx(Header, null, __jsx(_Container__WEBPACK_IMPORTED_MODULE_10__["default"], {
     renderer: __jsx("div", {
@@ -170,13 +181,17 @@ var AppLayout = function AppLayout(_ref) {
     className: "jsx-1516834124" + " " + "header-left"
   }, __jsx("div", {
     className: "jsx-1516834124" + " " + "logo"
+  }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_9___default.a, {
+    href: "/"
+  }, __jsx("a", {
+    className: "jsx-1516834124"
   }, __jsx(antd_lib_icon__WEBPACK_IMPORTED_MODULE_4___default.a, {
     type: "github",
     style: githubIconStyle
-  })), __jsx("div", {
+  })))), __jsx("div", {
     className: "jsx-1516834124"
   }, __jsx(antd_lib_input__WEBPACK_IMPORTED_MODULE_3___default.a.Search, {
-    placeholder: "\u641C\u7D22\u6216\u8DF3\u8F6C...",
+    placeholder: "Search or jump to...",
     value: search,
     onChange: handleSearchChange,
     onSearch: handleOnSearch
@@ -190,7 +205,7 @@ var AppLayout = function AppLayout(_ref) {
     size: 40,
     src: user.avatar_url
   })) : __jsx(antd_lib_tooltip__WEBPACK_IMPORTED_MODULE_0___default.a, {
-    title: "\u70B9\u51FB\u767B\u5F55"
+    title: "Click to log in"
   }, __jsx("a", {
     href: "/prepare-auth?url=".concat(router.asPath),
     className: "jsx-1516834124"
@@ -204,12 +219,80 @@ var AppLayout = function AppLayout(_ref) {
     className: "jsx-1516834124"
   }, "taralovecats@163.com")), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_7___default.a, {
     id: "4172506159"
-  }, ".header-inner.jsx-1516834124{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;}.header-left.jsx-1516834124{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;display:flex-start;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkQ6XFznvJbnqItcXOmhueebrlxcbmV4dOmhueebrlxcbmV4dC1naXRodWJcXGNvbXBvbmVudHNcXExheW91dC5qc3giXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBMkZ3QixBQUdrQyxBQUlBLDBFQUhpQixBQUlYLG1CQUN2QixnR0FKQSIsImZpbGUiOiJEOlxc57yW56iLXFzpobnnm65cXG5leHTpobnnm65cXG5leHQtZ2l0aHViXFxjb21wb25lbnRzXFxMYXlvdXQuanN4Iiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IExpbmsgZnJvbSAnbmV4dC9saW5rJ1xyXG5pbXBvcnQgeyBMYXlvdXQsIElucHV0LCBJY29uLCBBdmF0YXIsIFRvb2x0aXAsIERyb3Bkb3duLCBNZW51IH0gZnJvbSAnYW50ZCdcclxuaW1wb3J0IHsgdXNlU3RhdGUsIHVzZUNhbGxiYWNrIH0gZnJvbSAncmVhY3QnXHJcbmltcG9ydCBDb250YWluZXIgZnJvbSAnLi9Db250YWluZXInXHJcbmltcG9ydCB7IHVzZVNlbGVjdG9yLCB1c2VEaXNwYXRjaCB9IGZyb20gJ3JlYWN0LXJlZHV4J1xyXG5pbXBvcnQgeyBsb2dvdXQgfSBmcm9tICcuLi9zdG9yZS9zdG9yZSdcclxuaW1wb3J0IHsgdXNlUm91dGVyfSBmcm9tICduZXh0L3JvdXRlcidcclxuXHJcbmNvbnN0IHsgSGVhZGVyLCBDb250ZW50LCBGb290ZXIgfSA9IExheW91dFxyXG5jb25zdCBmb290ZXJTdHlsZSA9IHtcclxuICAgIHRleHRBbGlnbjogJ2NlbnRlcidcclxufVxyXG5jb25zdCBnaXRodWJJY29uU3R5bGUgPSB7XHJcbiAgICBjb2xvcjogJyNmZmYnLFxyXG4gICAgZm9udFNpemU6IDQwLFxyXG4gICAgZGlzcGxheTogJ2Jsb2NrJyxcclxuICAgIHBhZGRpbmdUb3A6IDEwLFxyXG4gICAgbWFyZ2luUmlnaHQ6IDIwLFxyXG59XHJcblxyXG5jb25zdCBBcHBMYXlvdXQgPSAoeyBjaGlsZHJlbiB9KSA9PiB7XHJcbiAgICBjb25zdCByb3V0ZXIgPSB1c2VSb3V0ZXIoKVxyXG4gICAgY29uc3QgdXJsUXVlcnkgPSByb3V0ZXIucXVlcnkgJiYgcm91dGVyLnF1ZXJ5LnF1ZXJ5XHJcbiAgICBjb25zdCBbc2VhcmNoLCBzZXRTZWFyY2hdID0gdXNlU3RhdGUodXJsUXVlcnkgfHwgJycpXHJcbiAgICBjb25zdCB1c2VyID0gdXNlU2VsZWN0b3Ioc3RhdGUgPT4gc3RhdGUudXNlcilcclxuICAgIGNvbnN0IGRpc3BhdGNoID0gdXNlRGlzcGF0Y2goKVxyXG5cclxuICAgIGNvbnN0IGhhbmRsZVNlYXJjaENoYW5nZSA9IHVzZUNhbGxiYWNrKChlKSA9PiB7XHJcbiAgICAgICAgc2V0U2VhcmNoKGUudGFyZ2V0LnZhbHVlKVxyXG4gICAgfSwgW10pXHJcblxyXG4gICAgY29uc3QgaGFuZGxlT25TZWFyY2ggPSB1c2VDYWxsYmFjaygoKSA9PiB7XHJcbiAgICAgICAgcm91dGVyLnB1c2goYC9zZWFyY2g/cXVlcnk9JHtzZWFyY2h9YClcclxuICAgIH0sIFtzZWFyY2hdKVxyXG5cclxuICAgIGNvbnN0IGhhbmRsZUxvZ291dCA9IHVzZUNhbGxiYWNrKCgpID0+IHtcclxuICAgICAgICBkaXNwYXRjaChsb2dvdXQoKSlcclxuICAgIH0sW10pXHJcblxyXG4gICAgY29uc3QgdXNlckRyb3Bkb3duID0gKFxyXG4gICAgICAgIDxNZW51IG9uQ2xpY2s9e2hhbmRsZUxvZ291dH0+IFxyXG4gICAgICAgICAgICA8TWVudS5JdGVtPlxyXG4gICAgICAgICAgICAgICAg55m75Ye6XHJcbiAgICAgICAgICAgIDwvTWVudS5JdGVtPlxyXG4gICAgICAgIDwvTWVudT5cclxuICAgIClcclxuXHJcbiAgICByZXR1cm4gKFxyXG4gICAgICAgIDxMYXlvdXQ+XHJcbiAgICAgICAgICAgIDxIZWFkZXI+XHJcbiAgICAgICAgICAgICAgICA8Q29udGFpbmVyIHJlbmRlcmVyPXs8ZGl2IGNsYXNzTmFtZT1cImhlYWRlci1pbm5lclwiLz59PlxyXG4gICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiaGVhZGVyLWxlZnRcIj5cclxuICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJsb2dvXCI+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7LyogPExpbmsgaHJlZj1cIi9cIj4gKi99XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPEljb24gdHlwZT1cImdpdGh1YlwiIHN0eWxlPXtnaXRodWJJY29uU3R5bGV9IC8+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7LyogPC9MaW5rPiAqL31cclxuICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXY+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8SW5wdXQuU2VhcmNoIFxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPVwi5pCc57Si5oiW6Lez6L2sLi4uXCJcclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZT17c2VhcmNofVxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2hhbmdlPXtoYW5kbGVTZWFyY2hDaGFuZ2V9XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb25TZWFyY2g9e2hhbmRsZU9uU2VhcmNofVxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgLz5cclxuICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+XHJcbiAgICAgICAgICAgICAgICAgICAgPC9kaXY+XHJcbiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJoZWFkZXItcmlnaHRcIj5cclxuICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJ1c2VyXCI+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7dXNlciAmJiB1c2VyLmlkID8gKFxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxEcm9wZG93biBvdmVybGF5PXt1c2VyRHJvcGRvd259PlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8QXZhdGFyIHNpemU9ezQwfSBzcmM9e3VzZXIuYXZhdGFyX3VybH0gLz5cclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L0Ryb3Bkb3duPlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgKSA6IChcclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8VG9vbHRpcCB0aXRsZT1cIueCueWHu+eZu+W9lVwiPlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPXtgL3ByZXBhcmUtYXV0aD91cmw9JHtyb3V0ZXIuYXNQYXRofWB9PlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPEF2YXRhciBzaXplPXs0MH0gaWNvbj1cInVzZXJcIiAvPlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2E+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9Ub29sdGlwPlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgKX1cclxuICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+XHJcbiAgICAgICAgICAgICAgICAgICAgPC9kaXY+XHJcbiAgICAgICAgICAgICAgICA8L0NvbnRhaW5lcj5cclxuICAgICAgICAgICAgPC9IZWFkZXI+XHJcbiAgICAgICAgICAgIDxDb250ZW50PlxyXG4gICAgICAgICAgICAgICAgey8qIOaUueWPmOe7hOS7tueahOa4suafk+exu+Wei++8jOS4jeiDveaMh+WumnByb3BzICovfVxyXG4gICAgICAgICAgICAgICAgey8qIDxDb250YWluZXIgY29tcD1cImRpdlwiPntjaGlsZHJlbn08L0NvbnRhaW5lcj4gKi99XHJcbiAgICAgICAgICAgICAgICA8Q29udGFpbmVyID57Y2hpbGRyZW59PC9Db250YWluZXI+XHJcbiAgICAgICAgICAgIDwvQ29udGVudD5cclxuICAgICAgICAgICAgPEZvb3RlciBzdHlsZT17Zm9vdGVyU3R5bGV9PlxyXG4gICAgICAgICAgICAgICAgSGVsbG8gVGFyYUA8YSBocmVmPVwibWFpbHRvOnRhcmFsb3ZlY2F0c0AxNjMuY29tXCI+dGFyYWxvdmVjYXRzQDE2My5jb208L2E+XHJcbiAgICAgICAgICAgIDwvRm9vdGVyPlxyXG4gICAgICAgICAgICA8c3R5bGUganN4PntgXHJcbiAgICAgICAgICAgICAgICAuaGVhZGVyLWlubmVyIHtcclxuICAgICAgICAgICAgICAgICAgICBkaXNwbGF5OiBmbGV4O1xyXG4gICAgICAgICAgICAgICAgICAgIGp1c3RpZnktY29udGVudDogc3BhY2UtYmV0d2VlbjtcclxuICAgICAgICAgICAgICAgIH1cclxuICAgICAgICAgICAgICAgIC5oZWFkZXItbGVmdCB7XHJcbiAgICAgICAgICAgICAgICAgICAgZGlzcGxheTogZmxleDtcclxuICAgICAgICAgICAgICAgICAgICBkaXNwbGF5OiBmbGV4LXN0YXJ0O1xyXG4gICAgICAgICAgICAgICAgfVxyXG4gICAgICAgICAgICBgfTwvc3R5bGU+ICBcclxuICAgICAgICAgICAgPHN0eWxlIGpzeCBnbG9iYWw+e2BcclxuICAgICAgICAgICAgICAgICNfX25leHQge1xyXG4gICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTAwJTtcclxuICAgICAgICAgICAgICAgIH1cclxuICAgICAgICAgICAgICAgIC5hbnQtbGF5b3V0IHtcclxuICAgICAgICAgICAgICAgICAgICBtaW4taGVpZ2h0OiAxMDAlO1xyXG4gICAgICAgICAgICAgICAgfVxyXG4gICAgICAgICAgICAgICAgLmFudC1sYXlvdXQtaGVhZGVyIHtcclxuICAgICAgICAgICAgICAgICAgICBwYWRkaW5nLWxlZnQ6IDAsXHJcbiAgICAgICAgICAgICAgICAgICAgcGFkZGluZy1yaWdodDogMFxyXG4gICAgICAgICAgICAgICAgfVxyXG4gICAgICAgICAgICAgICAgLmFudC1sYXlvdXQtY29udGVudCB7XHJcbiAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZDogI2ZmZlxyXG4gICAgICAgICAgICAgICAgfVxyXG4gICAgICAgICAgICBgfTwvc3R5bGU+XHJcbiAgICAgICAgPC9MYXlvdXQ+XHJcbiAgICApXHJcbn1cclxuXHJcbmV4cG9ydCBkZWZhdWx0IEFwcExheW91dFxyXG5cclxuIl19 */\n/*@ sourceURL=D:\\\\\u7F16\u7A0B\\\\\u9879\u76EE\\\\next\u9879\u76EE\\\\next-github\\\\components\\\\Layout.jsx */"), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_7___default.a, {
+  }, ".header-inner.jsx-1516834124{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;}.header-left.jsx-1516834124{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;display:flex-start;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkQ6XFznvJbnqItcXOmhueebrlxcbmV4dOmhueebrlxcbmV4dC1naXRodWJcXGNvbXBvbmVudHNcXExheW91dC5qc3giXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBNkZ3QixBQUdrQyxBQUlBLDBFQUhpQixBQUlYLG1CQUN2QixnR0FKQSIsImZpbGUiOiJEOlxc57yW56iLXFzpobnnm65cXG5leHTpobnnm65cXG5leHQtZ2l0aHViXFxjb21wb25lbnRzXFxMYXlvdXQuanN4Iiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IExpbmsgZnJvbSAnbmV4dC9saW5rJ1xyXG5pbXBvcnQgeyBMYXlvdXQsIElucHV0LCBJY29uLCBBdmF0YXIsIFRvb2x0aXAsIERyb3Bkb3duLCBNZW51IH0gZnJvbSAnYW50ZCdcclxuaW1wb3J0IHsgdXNlU3RhdGUsIHVzZUNhbGxiYWNrIH0gZnJvbSAncmVhY3QnXHJcbmltcG9ydCBDb250YWluZXIgZnJvbSAnLi9Db250YWluZXInXHJcbmltcG9ydCB7IHVzZVNlbGVjdG9yLCB1c2VEaXNwYXRjaCB9IGZyb20gJ3JlYWN0LXJlZHV4J1xyXG5pbXBvcnQgeyBsb2dvdXQgfSBmcm9tICcuLi9zdG9yZS9zdG9yZSdcclxuaW1wb3J0IHsgdXNlUm91dGVyfSBmcm9tICduZXh0L3JvdXRlcidcclxuXHJcbmNvbnN0IHsgSGVhZGVyLCBDb250ZW50LCBGb290ZXIgfSA9IExheW91dFxyXG5jb25zdCBmb290ZXJTdHlsZSA9IHtcclxuICAgIHRleHRBbGlnbjogJ2NlbnRlcidcclxufVxyXG5jb25zdCBnaXRodWJJY29uU3R5bGUgPSB7XHJcbiAgICBjb2xvcjogJyNmZmYnLFxyXG4gICAgZm9udFNpemU6IDQwLFxyXG4gICAgZGlzcGxheTogJ2Jsb2NrJyxcclxuICAgIHBhZGRpbmdUb3A6IDEwLFxyXG4gICAgbWFyZ2luUmlnaHQ6IDIwLFxyXG59XHJcblxyXG5mdW5jdGlvbiBBcHBMYXlvdXQoeyBjaGlsZHJlbiB9KSB7XHJcbiAgICBjb25zdCByb3V0ZXIgPSB1c2VSb3V0ZXIoKTtcclxuICAgIGNvbnN0IHVybFF1ZXJ5ID0gcm91dGVyLnF1ZXJ5ICYmIHJvdXRlci5xdWVyeS5xO1xyXG4gICAgY29uc3QgW3NlYXJjaCwgc2V0U2VhcmNoXSA9IHVzZVN0YXRlKHVybFF1ZXJ5IHx8ICcnKTtcclxuICAgIGNvbnN0IHVzZXIgPSB1c2VTZWxlY3RvcihzdGF0ZSA9PiBzdGF0ZS51c2VyKTtcclxuICAgIGNvbnN0IGRpc3BhdGNoID0gdXNlRGlzcGF0Y2goKTtcclxuXHJcbiAgICBjb25zdCBoYW5kbGVTZWFyY2hDaGFuZ2UgPSB1c2VDYWxsYmFjaygoZSkgPT4ge1xyXG4gICAgICAgIHNldFNlYXJjaChlLnRhcmdldC52YWx1ZSlcclxuICAgIH0sIFtdKTtcclxuXHJcbiAgICBjb25zdCBoYW5kbGVPblNlYXJjaCA9IHVzZUNhbGxiYWNrKCgpID0+IHtcclxuICAgICAgICByb3V0ZXIucHVzaChgL3NlYXJjaD9xPSR7c2VhcmNofWApXHJcbiAgICB9LCBbc2VhcmNoXSk7XHJcblxyXG4gICAgY29uc3QgaGFuZGxlTG9nb3V0ID0gdXNlQ2FsbGJhY2soKCkgPT4ge1xyXG4gICAgICAgIGRpc3BhdGNoKGxvZ291dCgpKVxyXG4gICAgfSxbXSk7XHJcblxyXG4gICAgY29uc3QgdXNlckRyb3Bkb3duID0gKFxyXG4gICAgICAgIDxNZW51IG9uQ2xpY2s9e2hhbmRsZUxvZ291dH0+IFxyXG4gICAgICAgICAgICA8TWVudS5JdGVtPlxyXG4gICAgICAgICAgICAgICAgbG9nIG91dFxyXG4gICAgICAgICAgICA8L01lbnUuSXRlbT5cclxuICAgICAgICA8L01lbnU+XHJcbiAgICApO1xyXG5cclxuICAgIHJldHVybiAoXHJcbiAgICAgICAgPExheW91dD5cclxuICAgICAgICAgICAgPEhlYWRlcj5cclxuICAgICAgICAgICAgICAgIDxDb250YWluZXIgcmVuZGVyZXI9ezxkaXYgY2xhc3NOYW1lPVwiaGVhZGVyLWlubmVyXCIvPn0+XHJcbiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJoZWFkZXItbGVmdFwiPlxyXG4gICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImxvZ29cIj5cclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxMaW5rIGhyZWY9XCIvXCI+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGE+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxJY29uIHR5cGU9XCJnaXRodWJcIiBzdHlsZT17Z2l0aHViSWNvblN0eWxlfSAvPlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT5cclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvTGluaz5cclxuICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXY+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8SW5wdXQuU2VhcmNoIFxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPVwiU2VhcmNoIG9yIGp1bXAgdG8uLi5cIlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlPXtzZWFyY2h9XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb25DaGFuZ2U9e2hhbmRsZVNlYXJjaENoYW5nZX1cclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvblNlYXJjaD17aGFuZGxlT25TZWFyY2h9XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvPlxyXG4gICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj5cclxuICAgICAgICAgICAgICAgICAgICA8L2Rpdj5cclxuICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImhlYWRlci1yaWdodFwiPlxyXG4gICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cInVzZXJcIj5cclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt1c2VyICYmIHVzZXIuaWQgPyAoXHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPERyb3Bkb3duIG92ZXJsYXk9e3VzZXJEcm9wZG93bn0+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxBdmF0YXIgc2l6ZT17NDB9IHNyYz17dXNlci5hdmF0YXJfdXJsfSAvPlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvRHJvcGRvd24+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICApIDogKFxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxUb29sdGlwIHRpdGxlPVwiQ2xpY2sgdG8gbG9nIGluXCI+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9e2AvcHJlcGFyZS1hdXRoP3VybD0ke3JvdXRlci5hc1BhdGh9YH0+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8QXZhdGFyIHNpemU9ezQwfSBpY29uPVwidXNlclwiIC8+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT5cclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L1Rvb2x0aXA+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICApfVxyXG4gICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj5cclxuICAgICAgICAgICAgICAgICAgICA8L2Rpdj5cclxuICAgICAgICAgICAgICAgIDwvQ29udGFpbmVyPlxyXG4gICAgICAgICAgICA8L0hlYWRlcj5cclxuICAgICAgICAgICAgPENvbnRlbnQ+XHJcbiAgICAgICAgICAgICAgICB7Lyog5pS55Y+Y57uE5Lu255qE5riy5p+T57G75Z6L77yM5LiN6IO95oyH5a6acHJvcHMgKi99XHJcbiAgICAgICAgICAgICAgICB7LyogPENvbnRhaW5lciBjb21wPVwiZGl2XCI+e2NoaWxkcmVufTwvQ29udGFpbmVyPiAqL31cclxuICAgICAgICAgICAgICAgIDxDb250YWluZXIgPntjaGlsZHJlbn08L0NvbnRhaW5lcj5cclxuICAgICAgICAgICAgPC9Db250ZW50PlxyXG4gICAgICAgICAgICA8Rm9vdGVyIHN0eWxlPXtmb290ZXJTdHlsZX0+XHJcbiAgICAgICAgICAgICAgICBIZWxsbyBUYXJhQDxhIGhyZWY9XCJtYWlsdG86dGFyYWxvdmVjYXRzQDE2My5jb21cIj50YXJhbG92ZWNhdHNAMTYzLmNvbTwvYT5cclxuICAgICAgICAgICAgPC9Gb290ZXI+XHJcbiAgICAgICAgICAgIDxzdHlsZSBqc3g+e2BcclxuICAgICAgICAgICAgICAgIC5oZWFkZXItaW5uZXIge1xyXG4gICAgICAgICAgICAgICAgICAgIGRpc3BsYXk6IGZsZXg7XHJcbiAgICAgICAgICAgICAgICAgICAganVzdGlmeS1jb250ZW50OiBzcGFjZS1iZXR3ZWVuO1xyXG4gICAgICAgICAgICAgICAgfVxyXG4gICAgICAgICAgICAgICAgLmhlYWRlci1sZWZ0IHtcclxuICAgICAgICAgICAgICAgICAgICBkaXNwbGF5OiBmbGV4O1xyXG4gICAgICAgICAgICAgICAgICAgIGRpc3BsYXk6IGZsZXgtc3RhcnQ7XHJcbiAgICAgICAgICAgICAgICB9XHJcbiAgICAgICAgICAgIGB9PC9zdHlsZT4gIFxyXG4gICAgICAgICAgICA8c3R5bGUganN4IGdsb2JhbD57YFxyXG4gICAgICAgICAgICAgICAgI19fbmV4dCB7XHJcbiAgICAgICAgICAgICAgICAgICAgaGVpZ2h0OiAxMDAlO1xyXG4gICAgICAgICAgICAgICAgfVxyXG4gICAgICAgICAgICAgICAgLmFudC1sYXlvdXQge1xyXG4gICAgICAgICAgICAgICAgICAgIG1pbi1oZWlnaHQ6IDEwMCU7XHJcbiAgICAgICAgICAgICAgICB9XHJcbiAgICAgICAgICAgICAgICAuYW50LWxheW91dC1oZWFkZXIge1xyXG4gICAgICAgICAgICAgICAgICAgIHBhZGRpbmctbGVmdDogMCxcclxuICAgICAgICAgICAgICAgICAgICBwYWRkaW5nLXJpZ2h0OiAwXHJcbiAgICAgICAgICAgICAgICB9XHJcbiAgICAgICAgICAgICAgICAuYW50LWxheW91dC1jb250ZW50IHtcclxuICAgICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kOiAjZmZmXHJcbiAgICAgICAgICAgICAgICB9XHJcbiAgICAgICAgICAgIGB9PC9zdHlsZT5cclxuICAgICAgICA8L0xheW91dD5cclxuICAgIClcclxufVxyXG5cclxuZXhwb3J0IGRlZmF1bHQgQXBwTGF5b3V0XHJcblxyXG4iXX0= */\n/*@ sourceURL=D:\\\\\u7F16\u7A0B\\\\\u9879\u76EE\\\\next\u9879\u76EE\\\\next-github\\\\components\\\\Layout.jsx */"), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_7___default.a, {
     id: "1596354954"
-  }, "#__next{height:100%;}.ant-layout{min-height:100%;}.ant-layout-header{padding-left:0, padding-right:0;}.ant-layout-content{background:#fff;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkQ6XFznvJbnqItcXOmhueebrlxcbmV4dOmhueebrlxcbmV4dC1naXRodWJcXGNvbXBvbmVudHNcXExheW91dC5qc3giXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBcUcrQixBQUdpQyxBQUdJLEFBS3JCLEFBR0EsWUFWQyxJQUdBLEFBT0EsZ0JBSEEiLCJmaWxlIjoiRDpcXOe8lueoi1xc6aG555uuXFxuZXh06aG555uuXFxuZXh0LWdpdGh1YlxcY29tcG9uZW50c1xcTGF5b3V0LmpzeCIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBMaW5rIGZyb20gJ25leHQvbGluaydcclxuaW1wb3J0IHsgTGF5b3V0LCBJbnB1dCwgSWNvbiwgQXZhdGFyLCBUb29sdGlwLCBEcm9wZG93biwgTWVudSB9IGZyb20gJ2FudGQnXHJcbmltcG9ydCB7IHVzZVN0YXRlLCB1c2VDYWxsYmFjayB9IGZyb20gJ3JlYWN0J1xyXG5pbXBvcnQgQ29udGFpbmVyIGZyb20gJy4vQ29udGFpbmVyJ1xyXG5pbXBvcnQgeyB1c2VTZWxlY3RvciwgdXNlRGlzcGF0Y2ggfSBmcm9tICdyZWFjdC1yZWR1eCdcclxuaW1wb3J0IHsgbG9nb3V0IH0gZnJvbSAnLi4vc3RvcmUvc3RvcmUnXHJcbmltcG9ydCB7IHVzZVJvdXRlcn0gZnJvbSAnbmV4dC9yb3V0ZXInXHJcblxyXG5jb25zdCB7IEhlYWRlciwgQ29udGVudCwgRm9vdGVyIH0gPSBMYXlvdXRcclxuY29uc3QgZm9vdGVyU3R5bGUgPSB7XHJcbiAgICB0ZXh0QWxpZ246ICdjZW50ZXInXHJcbn1cclxuY29uc3QgZ2l0aHViSWNvblN0eWxlID0ge1xyXG4gICAgY29sb3I6ICcjZmZmJyxcclxuICAgIGZvbnRTaXplOiA0MCxcclxuICAgIGRpc3BsYXk6ICdibG9jaycsXHJcbiAgICBwYWRkaW5nVG9wOiAxMCxcclxuICAgIG1hcmdpblJpZ2h0OiAyMCxcclxufVxyXG5cclxuY29uc3QgQXBwTGF5b3V0ID0gKHsgY2hpbGRyZW4gfSkgPT4ge1xyXG4gICAgY29uc3Qgcm91dGVyID0gdXNlUm91dGVyKClcclxuICAgIGNvbnN0IHVybFF1ZXJ5ID0gcm91dGVyLnF1ZXJ5ICYmIHJvdXRlci5xdWVyeS5xdWVyeVxyXG4gICAgY29uc3QgW3NlYXJjaCwgc2V0U2VhcmNoXSA9IHVzZVN0YXRlKHVybFF1ZXJ5IHx8ICcnKVxyXG4gICAgY29uc3QgdXNlciA9IHVzZVNlbGVjdG9yKHN0YXRlID0+IHN0YXRlLnVzZXIpXHJcbiAgICBjb25zdCBkaXNwYXRjaCA9IHVzZURpc3BhdGNoKClcclxuXHJcbiAgICBjb25zdCBoYW5kbGVTZWFyY2hDaGFuZ2UgPSB1c2VDYWxsYmFjaygoZSkgPT4ge1xyXG4gICAgICAgIHNldFNlYXJjaChlLnRhcmdldC52YWx1ZSlcclxuICAgIH0sIFtdKVxyXG5cclxuICAgIGNvbnN0IGhhbmRsZU9uU2VhcmNoID0gdXNlQ2FsbGJhY2soKCkgPT4ge1xyXG4gICAgICAgIHJvdXRlci5wdXNoKGAvc2VhcmNoP3F1ZXJ5PSR7c2VhcmNofWApXHJcbiAgICB9LCBbc2VhcmNoXSlcclxuXHJcbiAgICBjb25zdCBoYW5kbGVMb2dvdXQgPSB1c2VDYWxsYmFjaygoKSA9PiB7XHJcbiAgICAgICAgZGlzcGF0Y2gobG9nb3V0KCkpXHJcbiAgICB9LFtdKVxyXG5cclxuICAgIGNvbnN0IHVzZXJEcm9wZG93biA9IChcclxuICAgICAgICA8TWVudSBvbkNsaWNrPXtoYW5kbGVMb2dvdXR9PiBcclxuICAgICAgICAgICAgPE1lbnUuSXRlbT5cclxuICAgICAgICAgICAgICAgIOeZu+WHulxyXG4gICAgICAgICAgICA8L01lbnUuSXRlbT5cclxuICAgICAgICA8L01lbnU+XHJcbiAgICApXHJcblxyXG4gICAgcmV0dXJuIChcclxuICAgICAgICA8TGF5b3V0PlxyXG4gICAgICAgICAgICA8SGVhZGVyPlxyXG4gICAgICAgICAgICAgICAgPENvbnRhaW5lciByZW5kZXJlcj17PGRpdiBjbGFzc05hbWU9XCJoZWFkZXItaW5uZXJcIi8+fT5cclxuICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImhlYWRlci1sZWZ0XCI+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwibG9nb1wiPlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgey8qIDxMaW5rIGhyZWY9XCIvXCI+ICovfVxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxJY29uIHR5cGU9XCJnaXRodWJcIiBzdHlsZT17Z2l0aHViSWNvblN0eWxlfSAvPlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgey8qIDwvTGluaz4gKi99XHJcbiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PlxyXG4gICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgPElucHV0LlNlYXJjaCBcclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwbGFjZWhvbGRlcj1cIuaQnOe0ouaIlui3s+i9rC4uLlwiXHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU9e3NlYXJjaH1cclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNoYW5nZT17aGFuZGxlU2VhcmNoQ2hhbmdlfVxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uU2VhcmNoPXtoYW5kbGVPblNlYXJjaH1cclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PlxyXG4gICAgICAgICAgICAgICAgICAgIDwvZGl2PlxyXG4gICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiaGVhZGVyLXJpZ2h0XCI+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwidXNlclwiPlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAge3VzZXIgJiYgdXNlci5pZCA/IChcclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8RHJvcGRvd24gb3ZlcmxheT17dXNlckRyb3Bkb3dufT5cclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPEF2YXRhciBzaXplPXs0MH0gc3JjPXt1c2VyLmF2YXRhcl91cmx9IC8+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9Ecm9wZG93bj5cclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICkgOiAoXHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPFRvb2x0aXAgdGl0bGU9XCLngrnlh7vnmbvlvZVcIj5cclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj17YC9wcmVwYXJlLWF1dGg/dXJsPSR7cm91dGVyLmFzUGF0aH1gfT5cclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxBdmF0YXIgc2l6ZT17NDB9IGljb249XCJ1c2VyXCIgLz5cclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9hPlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvVG9vbHRpcD5cclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICl9XHJcbiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PlxyXG4gICAgICAgICAgICAgICAgICAgIDwvZGl2PlxyXG4gICAgICAgICAgICAgICAgPC9Db250YWluZXI+XHJcbiAgICAgICAgICAgIDwvSGVhZGVyPlxyXG4gICAgICAgICAgICA8Q29udGVudD5cclxuICAgICAgICAgICAgICAgIHsvKiDmlLnlj5jnu4Tku7bnmoTmuLLmn5PnsbvlnovvvIzkuI3og73mjIflrppwcm9wcyAqL31cclxuICAgICAgICAgICAgICAgIHsvKiA8Q29udGFpbmVyIGNvbXA9XCJkaXZcIj57Y2hpbGRyZW59PC9Db250YWluZXI+ICovfVxyXG4gICAgICAgICAgICAgICAgPENvbnRhaW5lciA+e2NoaWxkcmVufTwvQ29udGFpbmVyPlxyXG4gICAgICAgICAgICA8L0NvbnRlbnQ+XHJcbiAgICAgICAgICAgIDxGb290ZXIgc3R5bGU9e2Zvb3RlclN0eWxlfT5cclxuICAgICAgICAgICAgICAgIEhlbGxvIFRhcmFAPGEgaHJlZj1cIm1haWx0bzp0YXJhbG92ZWNhdHNAMTYzLmNvbVwiPnRhcmFsb3ZlY2F0c0AxNjMuY29tPC9hPlxyXG4gICAgICAgICAgICA8L0Zvb3Rlcj5cclxuICAgICAgICAgICAgPHN0eWxlIGpzeD57YFxyXG4gICAgICAgICAgICAgICAgLmhlYWRlci1pbm5lciB7XHJcbiAgICAgICAgICAgICAgICAgICAgZGlzcGxheTogZmxleDtcclxuICAgICAgICAgICAgICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IHNwYWNlLWJldHdlZW47XHJcbiAgICAgICAgICAgICAgICB9XHJcbiAgICAgICAgICAgICAgICAuaGVhZGVyLWxlZnQge1xyXG4gICAgICAgICAgICAgICAgICAgIGRpc3BsYXk6IGZsZXg7XHJcbiAgICAgICAgICAgICAgICAgICAgZGlzcGxheTogZmxleC1zdGFydDtcclxuICAgICAgICAgICAgICAgIH1cclxuICAgICAgICAgICAgYH08L3N0eWxlPiAgXHJcbiAgICAgICAgICAgIDxzdHlsZSBqc3ggZ2xvYmFsPntgXHJcbiAgICAgICAgICAgICAgICAjX19uZXh0IHtcclxuICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDEwMCU7XHJcbiAgICAgICAgICAgICAgICB9XHJcbiAgICAgICAgICAgICAgICAuYW50LWxheW91dCB7XHJcbiAgICAgICAgICAgICAgICAgICAgbWluLWhlaWdodDogMTAwJTtcclxuICAgICAgICAgICAgICAgIH1cclxuICAgICAgICAgICAgICAgIC5hbnQtbGF5b3V0LWhlYWRlciB7XHJcbiAgICAgICAgICAgICAgICAgICAgcGFkZGluZy1sZWZ0OiAwLFxyXG4gICAgICAgICAgICAgICAgICAgIHBhZGRpbmctcmlnaHQ6IDBcclxuICAgICAgICAgICAgICAgIH1cclxuICAgICAgICAgICAgICAgIC5hbnQtbGF5b3V0LWNvbnRlbnQge1xyXG4gICAgICAgICAgICAgICAgICAgIGJhY2tncm91bmQ6ICNmZmZcclxuICAgICAgICAgICAgICAgIH1cclxuICAgICAgICAgICAgYH08L3N0eWxlPlxyXG4gICAgICAgIDwvTGF5b3V0PlxyXG4gICAgKVxyXG59XHJcblxyXG5leHBvcnQgZGVmYXVsdCBBcHBMYXlvdXRcclxuXHJcbiJdfQ== */\n/*@ sourceURL=D:\\\\\u7F16\u7A0B\\\\\u9879\u76EE\\\\next\u9879\u76EE\\\\next-github\\\\components\\\\Layout.jsx */"));
-};
+  }, "#__next{height:100%;}.ant-layout{min-height:100%;}.ant-layout-header{padding-left:0, padding-right:0;}.ant-layout-content{background:#fff;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkQ6XFznvJbnqItcXOmhueebrlxcbmV4dOmhueebrlxcbmV4dC1naXRodWJcXGNvbXBvbmVudHNcXExheW91dC5qc3giXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBdUcrQixBQUdpQyxBQUdJLEFBS3JCLEFBR0EsWUFWQyxJQUdBLEFBT0EsZ0JBSEEiLCJmaWxlIjoiRDpcXOe8lueoi1xc6aG555uuXFxuZXh06aG555uuXFxuZXh0LWdpdGh1YlxcY29tcG9uZW50c1xcTGF5b3V0LmpzeCIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBMaW5rIGZyb20gJ25leHQvbGluaydcclxuaW1wb3J0IHsgTGF5b3V0LCBJbnB1dCwgSWNvbiwgQXZhdGFyLCBUb29sdGlwLCBEcm9wZG93biwgTWVudSB9IGZyb20gJ2FudGQnXHJcbmltcG9ydCB7IHVzZVN0YXRlLCB1c2VDYWxsYmFjayB9IGZyb20gJ3JlYWN0J1xyXG5pbXBvcnQgQ29udGFpbmVyIGZyb20gJy4vQ29udGFpbmVyJ1xyXG5pbXBvcnQgeyB1c2VTZWxlY3RvciwgdXNlRGlzcGF0Y2ggfSBmcm9tICdyZWFjdC1yZWR1eCdcclxuaW1wb3J0IHsgbG9nb3V0IH0gZnJvbSAnLi4vc3RvcmUvc3RvcmUnXHJcbmltcG9ydCB7IHVzZVJvdXRlcn0gZnJvbSAnbmV4dC9yb3V0ZXInXHJcblxyXG5jb25zdCB7IEhlYWRlciwgQ29udGVudCwgRm9vdGVyIH0gPSBMYXlvdXRcclxuY29uc3QgZm9vdGVyU3R5bGUgPSB7XHJcbiAgICB0ZXh0QWxpZ246ICdjZW50ZXInXHJcbn1cclxuY29uc3QgZ2l0aHViSWNvblN0eWxlID0ge1xyXG4gICAgY29sb3I6ICcjZmZmJyxcclxuICAgIGZvbnRTaXplOiA0MCxcclxuICAgIGRpc3BsYXk6ICdibG9jaycsXHJcbiAgICBwYWRkaW5nVG9wOiAxMCxcclxuICAgIG1hcmdpblJpZ2h0OiAyMCxcclxufVxyXG5cclxuZnVuY3Rpb24gQXBwTGF5b3V0KHsgY2hpbGRyZW4gfSkge1xyXG4gICAgY29uc3Qgcm91dGVyID0gdXNlUm91dGVyKCk7XHJcbiAgICBjb25zdCB1cmxRdWVyeSA9IHJvdXRlci5xdWVyeSAmJiByb3V0ZXIucXVlcnkucTtcclxuICAgIGNvbnN0IFtzZWFyY2gsIHNldFNlYXJjaF0gPSB1c2VTdGF0ZSh1cmxRdWVyeSB8fCAnJyk7XHJcbiAgICBjb25zdCB1c2VyID0gdXNlU2VsZWN0b3Ioc3RhdGUgPT4gc3RhdGUudXNlcik7XHJcbiAgICBjb25zdCBkaXNwYXRjaCA9IHVzZURpc3BhdGNoKCk7XHJcblxyXG4gICAgY29uc3QgaGFuZGxlU2VhcmNoQ2hhbmdlID0gdXNlQ2FsbGJhY2soKGUpID0+IHtcclxuICAgICAgICBzZXRTZWFyY2goZS50YXJnZXQudmFsdWUpXHJcbiAgICB9LCBbXSk7XHJcblxyXG4gICAgY29uc3QgaGFuZGxlT25TZWFyY2ggPSB1c2VDYWxsYmFjaygoKSA9PiB7XHJcbiAgICAgICAgcm91dGVyLnB1c2goYC9zZWFyY2g/cT0ke3NlYXJjaH1gKVxyXG4gICAgfSwgW3NlYXJjaF0pO1xyXG5cclxuICAgIGNvbnN0IGhhbmRsZUxvZ291dCA9IHVzZUNhbGxiYWNrKCgpID0+IHtcclxuICAgICAgICBkaXNwYXRjaChsb2dvdXQoKSlcclxuICAgIH0sW10pO1xyXG5cclxuICAgIGNvbnN0IHVzZXJEcm9wZG93biA9IChcclxuICAgICAgICA8TWVudSBvbkNsaWNrPXtoYW5kbGVMb2dvdXR9PiBcclxuICAgICAgICAgICAgPE1lbnUuSXRlbT5cclxuICAgICAgICAgICAgICAgIGxvZyBvdXRcclxuICAgICAgICAgICAgPC9NZW51Lkl0ZW0+XHJcbiAgICAgICAgPC9NZW51PlxyXG4gICAgKTtcclxuXHJcbiAgICByZXR1cm4gKFxyXG4gICAgICAgIDxMYXlvdXQ+XHJcbiAgICAgICAgICAgIDxIZWFkZXI+XHJcbiAgICAgICAgICAgICAgICA8Q29udGFpbmVyIHJlbmRlcmVyPXs8ZGl2IGNsYXNzTmFtZT1cImhlYWRlci1pbm5lclwiLz59PlxyXG4gICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiaGVhZGVyLWxlZnRcIj5cclxuICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJsb2dvXCI+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8TGluayBocmVmPVwiL1wiPlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhPlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8SWNvbiB0eXBlPVwiZ2l0aHViXCIgc3R5bGU9e2dpdGh1Ykljb25TdHlsZX0gLz5cclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2E+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L0xpbms+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PlxyXG4gICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgPElucHV0LlNlYXJjaCBcclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwbGFjZWhvbGRlcj1cIlNlYXJjaCBvciBqdW1wIHRvLi4uXCJcclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZT17c2VhcmNofVxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2hhbmdlPXtoYW5kbGVTZWFyY2hDaGFuZ2V9XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb25TZWFyY2g9e2hhbmRsZU9uU2VhcmNofVxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgLz5cclxuICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+XHJcbiAgICAgICAgICAgICAgICAgICAgPC9kaXY+XHJcbiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJoZWFkZXItcmlnaHRcIj5cclxuICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJ1c2VyXCI+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7dXNlciAmJiB1c2VyLmlkID8gKFxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxEcm9wZG93biBvdmVybGF5PXt1c2VyRHJvcGRvd259PlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8QXZhdGFyIHNpemU9ezQwfSBzcmM9e3VzZXIuYXZhdGFyX3VybH0gLz5cclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L0Ryb3Bkb3duPlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgKSA6IChcclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8VG9vbHRpcCB0aXRsZT1cIkNsaWNrIHRvIGxvZyBpblwiPlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPXtgL3ByZXBhcmUtYXV0aD91cmw9JHtyb3V0ZXIuYXNQYXRofWB9PlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPEF2YXRhciBzaXplPXs0MH0gaWNvbj1cInVzZXJcIiAvPlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2E+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9Ub29sdGlwPlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgKX1cclxuICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+XHJcbiAgICAgICAgICAgICAgICAgICAgPC9kaXY+XHJcbiAgICAgICAgICAgICAgICA8L0NvbnRhaW5lcj5cclxuICAgICAgICAgICAgPC9IZWFkZXI+XHJcbiAgICAgICAgICAgIDxDb250ZW50PlxyXG4gICAgICAgICAgICAgICAgey8qIOaUueWPmOe7hOS7tueahOa4suafk+exu+Wei++8jOS4jeiDveaMh+WumnByb3BzICovfVxyXG4gICAgICAgICAgICAgICAgey8qIDxDb250YWluZXIgY29tcD1cImRpdlwiPntjaGlsZHJlbn08L0NvbnRhaW5lcj4gKi99XHJcbiAgICAgICAgICAgICAgICA8Q29udGFpbmVyID57Y2hpbGRyZW59PC9Db250YWluZXI+XHJcbiAgICAgICAgICAgIDwvQ29udGVudD5cclxuICAgICAgICAgICAgPEZvb3RlciBzdHlsZT17Zm9vdGVyU3R5bGV9PlxyXG4gICAgICAgICAgICAgICAgSGVsbG8gVGFyYUA8YSBocmVmPVwibWFpbHRvOnRhcmFsb3ZlY2F0c0AxNjMuY29tXCI+dGFyYWxvdmVjYXRzQDE2My5jb208L2E+XHJcbiAgICAgICAgICAgIDwvRm9vdGVyPlxyXG4gICAgICAgICAgICA8c3R5bGUganN4PntgXHJcbiAgICAgICAgICAgICAgICAuaGVhZGVyLWlubmVyIHtcclxuICAgICAgICAgICAgICAgICAgICBkaXNwbGF5OiBmbGV4O1xyXG4gICAgICAgICAgICAgICAgICAgIGp1c3RpZnktY29udGVudDogc3BhY2UtYmV0d2VlbjtcclxuICAgICAgICAgICAgICAgIH1cclxuICAgICAgICAgICAgICAgIC5oZWFkZXItbGVmdCB7XHJcbiAgICAgICAgICAgICAgICAgICAgZGlzcGxheTogZmxleDtcclxuICAgICAgICAgICAgICAgICAgICBkaXNwbGF5OiBmbGV4LXN0YXJ0O1xyXG4gICAgICAgICAgICAgICAgfVxyXG4gICAgICAgICAgICBgfTwvc3R5bGU+ICBcclxuICAgICAgICAgICAgPHN0eWxlIGpzeCBnbG9iYWw+e2BcclxuICAgICAgICAgICAgICAgICNfX25leHQge1xyXG4gICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTAwJTtcclxuICAgICAgICAgICAgICAgIH1cclxuICAgICAgICAgICAgICAgIC5hbnQtbGF5b3V0IHtcclxuICAgICAgICAgICAgICAgICAgICBtaW4taGVpZ2h0OiAxMDAlO1xyXG4gICAgICAgICAgICAgICAgfVxyXG4gICAgICAgICAgICAgICAgLmFudC1sYXlvdXQtaGVhZGVyIHtcclxuICAgICAgICAgICAgICAgICAgICBwYWRkaW5nLWxlZnQ6IDAsXHJcbiAgICAgICAgICAgICAgICAgICAgcGFkZGluZy1yaWdodDogMFxyXG4gICAgICAgICAgICAgICAgfVxyXG4gICAgICAgICAgICAgICAgLmFudC1sYXlvdXQtY29udGVudCB7XHJcbiAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZDogI2ZmZlxyXG4gICAgICAgICAgICAgICAgfVxyXG4gICAgICAgICAgICBgfTwvc3R5bGU+XHJcbiAgICAgICAgPC9MYXlvdXQ+XHJcbiAgICApXHJcbn1cclxuXHJcbmV4cG9ydCBkZWZhdWx0IEFwcExheW91dFxyXG5cclxuIl19 */\n/*@ sourceURL=D:\\\\\u7F16\u7A0B\\\\\u9879\u76EE\\\\next\u9879\u76EE\\\\next-github\\\\components\\\\Layout.jsx */"));
+}
 
 /* harmony default export */ __webpack_exports__["default"] = (AppLayout);
+
+/***/ }),
+
+/***/ "./lib/json.js":
+/*!*********************!*\
+  !*** ./lib/json.js ***!
+  \*********************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+var _regeneratorRuntime = __webpack_require__(/*! @babel/runtime-corejs2/regenerator */ "./node_modules/@babel/runtime-corejs2/regenerator/index.js");
+
+var _JSON$stringify = __webpack_require__(/*! @babel/runtime-corejs2/core-js/json/stringify */ "./node_modules/@babel/runtime-corejs2/core-js/json/stringify.js");
+
+var axios = __webpack_require__(/*! axios */ "./node_modules/axios/index.js");
+
+var isServer = false;
+
+var colorsJson = __webpack_require__(/*! ../colors.json */ "./colors.json");
+
+function request(_ref) {
+  var _ref$method, method, url, colors;
+
+  return _regeneratorRuntime.async(function request$(_context) {
+    while (1) {
+      switch (_context.prev = _context.next) {
+        case 0:
+          _ref$method = _ref.method, method = _ref$method === void 0 ? 'GET' : _ref$method, url = _ref.url;
+
+          if (url) {
+            _context.next = 3;
+            break;
+          }
+
+          throw Error('url must be provided');
+
+        case 3:
+          if (!isServer) {
+            _context.next = 8;
+            break;
+          }
+
+          colors = JSON.parse(_JSON$stringify(colorsJson));
+          return _context.abrupt("return", {
+            data: colors
+          });
+
+        case 8:
+          _context.next = 10;
+          return _regeneratorRuntime.awrap(axios({
+            method: method,
+            url: url
+          }));
+
+        case 10:
+          return _context.abrupt("return", _context.sent);
+
+        case 11:
+        case "end":
+          return _context.stop();
+      }
+    }
+  });
+}
+
+module.exports = {
+  request: request
+};
 
 /***/ }),
 
@@ -323,16 +406,17 @@ function getOrCreateStore(initialState) {
     return WithReduxApp;
   }(react__WEBPACK_IMPORTED_MODULE_15___default.a.Component);
 
-  WithReduxApp.getInitialProps = function _callee(ctx) {
-    var reduxStore, req, session, appProps;
+  WithReduxApp.getInitialProps = function _callee(context) {
+    var ctx, reduxStore, session, appProps;
     return _babel_runtime_corejs2_regenerator__WEBPACK_IMPORTED_MODULE_6___default.a.async(function _callee$(_context) {
       while (1) {
         switch (_context.prev = _context.next) {
           case 0:
+            ctx = context.ctx;
+
             if (isServer) {
               //服务端环境下才有req对象
-              req = ctx.ctx.req;
-              session = req.session;
+              session = ctx.req.session;
 
               if (session && session.userInfo) {
                 reduxStore = getOrCreateStore({
@@ -349,22 +433,22 @@ function getOrCreateStore(initialState) {
             appProps = {};
 
             if (!(typeof Comp.getInitialProps === 'function')) {
-              _context.next = 7;
+              _context.next = 8;
               break;
             }
 
-            _context.next = 6;
-            return _babel_runtime_corejs2_regenerator__WEBPACK_IMPORTED_MODULE_6___default.a.awrap(Comp.getInitialProps(ctx));
-
-          case 6:
-            appProps = _context.sent;
+            _context.next = 7;
+            return _babel_runtime_corejs2_regenerator__WEBPACK_IMPORTED_MODULE_6___default.a.awrap(Comp.getInitialProps(context));
 
           case 7:
+            appProps = _context.sent;
+
+          case 8:
             return _context.abrupt("return", _objectSpread({}, appProps, {
               initialReduxState: reduxStore.getState()
             }));
 
-          case 8:
+          case 9:
           case "end":
             return _context.stop();
         }
@@ -3394,6 +3478,17 @@ module.exports = __webpack_require__(/*! core-js/library/fn/get-iterator */ "./n
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__(/*! core-js/library/fn/is-iterable */ "./node_modules/core-js/library/fn/is-iterable.js");
+
+/***/ }),
+
+/***/ "./node_modules/@babel/runtime-corejs2/core-js/json/stringify.js":
+/*!***********************************************************************!*\
+  !*** ./node_modules/@babel/runtime-corejs2/core-js/json/stringify.js ***!
+  \***********************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__(/*! core-js/library/fn/json/stringify */ "./node_modules/core-js/library/fn/json/stringify.js");
 
 /***/ }),
 
@@ -14367,6 +14462,22 @@ module.exports = __webpack_require__(/*! ../modules/core.get-iterator */ "./node
 __webpack_require__(/*! ../modules/web.dom.iterable */ "./node_modules/core-js/library/modules/web.dom.iterable.js");
 __webpack_require__(/*! ../modules/es6.string.iterator */ "./node_modules/core-js/library/modules/es6.string.iterator.js");
 module.exports = __webpack_require__(/*! ../modules/core.is-iterable */ "./node_modules/core-js/library/modules/core.is-iterable.js");
+
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/fn/json/stringify.js":
+/*!***********************************************************!*\
+  !*** ./node_modules/core-js/library/fn/json/stringify.js ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+var core = __webpack_require__(/*! ../../modules/_core */ "./node_modules/core-js/library/modules/_core.js");
+var $JSON = core.JSON || (core.JSON = { stringify: JSON.stringify });
+module.exports = function stringify(it) { // eslint-disable-line no-unused-vars
+  return $JSON.stringify.apply($JSON, arguments);
+};
 
 
 /***/ }),
@@ -39681,6 +39792,18 @@ a:!(!b.characterData&&!b.characterDataOldValue)},d=this.i,f=0;f<d.length;f++)d[f
 
 /***/ }),
 
+/***/ "./node_modules/next/app.js":
+/*!**********************************!*\
+  !*** ./node_modules/next/app.js ***!
+  \**********************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__(/*! ./dist/pages/_app */ "./node_modules/next/dist/pages/_app.js")
+
+
+/***/ }),
+
 /***/ "./node_modules/next/dist/build/polyfills/object-assign.js":
 /*!***********************************************************************************************************************!*\
   !*** delegated ./node_modules/next/dist/build/polyfills/object-assign.js from dll-reference dll_ef0ff7c60362f24a921f ***!
@@ -41480,6 +41603,178 @@ function formatWithValidation(url, options) {
 exports.formatWithValidation = formatWithValidation;
 exports.SP = typeof performance !== 'undefined';
 exports.ST = exports.SP && typeof performance.mark === 'function' && typeof performance.measure === 'function';
+
+/***/ }),
+
+/***/ "./node_modules/next/dist/pages/_app.js":
+/*!**********************************************!*\
+  !*** ./node_modules/next/dist/pages/_app.js ***!
+  \**********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var _Object$assign = __webpack_require__(/*! @babel/runtime-corejs2/core-js/object/assign */ "./node_modules/next/dist/build/polyfills/object-assign.js");
+
+var _classCallCheck = __webpack_require__(/*! @babel/runtime-corejs2/helpers/classCallCheck */ "./node_modules/@babel/runtime-corejs2/helpers/classCallCheck.js");
+
+var _createClass = __webpack_require__(/*! @babel/runtime-corejs2/helpers/createClass */ "./node_modules/@babel/runtime-corejs2/helpers/createClass.js");
+
+var _possibleConstructorReturn = __webpack_require__(/*! @babel/runtime-corejs2/helpers/possibleConstructorReturn */ "./node_modules/@babel/runtime-corejs2/helpers/possibleConstructorReturn.js");
+
+var _getPrototypeOf = __webpack_require__(/*! @babel/runtime-corejs2/helpers/getPrototypeOf */ "./node_modules/@babel/runtime-corejs2/helpers/getPrototypeOf.js");
+
+var _inherits = __webpack_require__(/*! @babel/runtime-corejs2/helpers/inherits */ "./node_modules/@babel/runtime-corejs2/helpers/inherits.js");
+
+var _regeneratorRuntime = __webpack_require__(/*! @babel/runtime-corejs2/regenerator */ "./node_modules/@babel/runtime-corejs2/regenerator/index.js");
+
+var _interopRequireDefault = __webpack_require__(/*! @babel/runtime-corejs2/helpers/interopRequireDefault */ "./node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js");
+
+exports.__esModule = true;
+exports.Container = Container;
+exports.createUrl = createUrl;
+exports["default"] = void 0;
+
+var _react = _interopRequireDefault(__webpack_require__(/*! react */ "./node_modules/react/index.js"));
+
+var _utils = __webpack_require__(/*! ../next-server/lib/utils */ "./node_modules/next/dist/next-server/lib/utils.js");
+
+exports.AppInitialProps = _utils.AppInitialProps;
+/**
+* `App` component is used for initialize of pages. It allows for overwriting and full control of the `page` initialization.
+* This allows for keeping state between navigation, custom error handling, injecting additional data.
+*/
+
+function appGetInitialProps(_ref) {
+  var Component, ctx, pageProps;
+  return _regeneratorRuntime.async(function appGetInitialProps$(_context) {
+    while (1) {
+      switch (_context.prev = _context.next) {
+        case 0:
+          Component = _ref.Component, ctx = _ref.ctx;
+          _context.next = 3;
+          return _regeneratorRuntime.awrap((0, _utils.loadGetInitialProps)(Component, ctx));
+
+        case 3:
+          pageProps = _context.sent;
+          return _context.abrupt("return", {
+            pageProps: pageProps
+          });
+
+        case 5:
+        case "end":
+          return _context.stop();
+      }
+    }
+  });
+}
+
+var App =
+/*#__PURE__*/
+function (_react$default$Compon) {
+  _inherits(App, _react$default$Compon);
+
+  function App() {
+    _classCallCheck(this, App);
+
+    return _possibleConstructorReturn(this, _getPrototypeOf(App).apply(this, arguments));
+  }
+
+  _createClass(App, [{
+    key: "componentDidCatch",
+    // Kept here for backwards compatibility.
+    // When someone ended App they could call `super.componentDidCatch`.
+    // @deprecated This method is no longer needed. Errors are caught at the top level
+    value: function componentDidCatch(error, _errorInfo) {
+      throw error;
+    }
+  }, {
+    key: "render",
+    value: function render() {
+      var _this$props = this.props,
+          router = _this$props.router,
+          Component = _this$props.Component,
+          pageProps = _this$props.pageProps;
+      var url = createUrl(router);
+      return _react["default"].createElement(Component, _Object$assign({}, pageProps, {
+        url: url
+      }));
+    }
+  }]);
+
+  return App;
+}(_react["default"].Component);
+
+exports["default"] = App;
+App.origGetInitialProps = appGetInitialProps;
+App.getInitialProps = appGetInitialProps;
+var warnContainer;
+var warnUrl;
+
+if (true) {
+  warnContainer = (0, _utils.execOnce)(function () {
+    console.warn("Warning: the `Container` in `_app` has been deprecated and should be removed. https://err.sh/zeit/next.js/app-container-deprecated");
+  });
+  warnUrl = (0, _utils.execOnce)(function () {
+    console.error("Warning: the 'url' property is deprecated. https://err.sh/zeit/next.js/url-deprecated");
+  });
+} // @deprecated noop for now until removal
+
+
+function Container(p) {
+  if (true) warnContainer();
+  return p.children;
+}
+
+function createUrl(router) {
+  // This is to make sure we don't references the router object at call time
+  var pathname = router.pathname,
+      asPath = router.asPath,
+      query = router.query;
+  return {
+    get query() {
+      if (true) warnUrl();
+      return query;
+    },
+
+    get pathname() {
+      if (true) warnUrl();
+      return pathname;
+    },
+
+    get asPath() {
+      if (true) warnUrl();
+      return asPath;
+    },
+
+    back: function back() {
+      if (true) warnUrl();
+      router.back();
+    },
+    push: function push(url, as) {
+      if (true) warnUrl();
+      return router.push(url, as);
+    },
+    pushTo: function pushTo(href, as) {
+      if (true) warnUrl();
+      var pushRoute = as ? href : '';
+      var pushUrl = as || href;
+      return router.push(pushRoute, pushUrl);
+    },
+    replace: function replace(url, as) {
+      if (true) warnUrl();
+      return router.replace(url, as);
+    },
+    replaceTo: function replaceTo(href, as) {
+      if (true) warnUrl();
+      var replaceRoute = as ? href : '';
+      var replaceUrl = as || href;
+      return router.replace(replaceRoute, replaceUrl);
+    }
+  };
+}
 
 /***/ }),
 
@@ -58035,35 +58330,74 @@ module.exports = function(module) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var antd_lib_spin__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! antd/lib/spin */ "./node_modules/antd/lib/spin/index.js");
-/* harmony import */ var antd_lib_spin__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(antd_lib_spin__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var antd_dist_antd_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! antd/dist/antd.css */ "./node_modules/antd/dist/antd.css");
-/* harmony import */ var antd_dist_antd_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(antd_dist_antd_css__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/Layout */ "./components/Layout.jsx");
-/* harmony import */ var react_redux__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! react-redux */ "./node_modules/react-redux/es/index.js");
-/* harmony import */ var _lib_with_redux__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../lib/with-redux */ "./lib/with-redux.js");
-/* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! next/router */ "./node_modules/next/dist/client/router.js");
-/* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(next_router__WEBPACK_IMPORTED_MODULE_6__);
+/* harmony import */ var _babel_runtime_corejs2_core_js_object_define_property__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime-corejs2/core-js/object/define-property */ "./node_modules/@babel/runtime-corejs2/core-js/object/define-property.js");
+/* harmony import */ var _babel_runtime_corejs2_core_js_object_define_property__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_corejs2_core_js_object_define_property__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _babel_runtime_corejs2_core_js_object_define_properties__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @babel/runtime-corejs2/core-js/object/define-properties */ "./node_modules/@babel/runtime-corejs2/core-js/object/define-properties.js");
+/* harmony import */ var _babel_runtime_corejs2_core_js_object_define_properties__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_corejs2_core_js_object_define_properties__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _babel_runtime_corejs2_core_js_object_get_own_property_descriptors__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @babel/runtime-corejs2/core-js/object/get-own-property-descriptors */ "./node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptors.js");
+/* harmony import */ var _babel_runtime_corejs2_core_js_object_get_own_property_descriptors__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_corejs2_core_js_object_get_own_property_descriptors__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _babel_runtime_corejs2_core_js_object_get_own_property_descriptor__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @babel/runtime-corejs2/core-js/object/get-own-property-descriptor */ "./node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js");
+/* harmony import */ var _babel_runtime_corejs2_core_js_object_get_own_property_descriptor__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_corejs2_core_js_object_get_own_property_descriptor__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _babel_runtime_corejs2_core_js_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @babel/runtime-corejs2/core-js/object/get-own-property-symbols */ "./node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-symbols.js");
+/* harmony import */ var _babel_runtime_corejs2_core_js_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_corejs2_core_js_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var _babel_runtime_corejs2_core_js_object_keys__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @babel/runtime-corejs2/core-js/object/keys */ "./node_modules/@babel/runtime-corejs2/core-js/object/keys.js");
+/* harmony import */ var _babel_runtime_corejs2_core_js_object_keys__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_corejs2_core_js_object_keys__WEBPACK_IMPORTED_MODULE_5__);
+/* harmony import */ var _babel_runtime_corejs2_regenerator__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @babel/runtime-corejs2/regenerator */ "./node_modules/@babel/runtime-corejs2/regenerator/index.js");
+/* harmony import */ var _babel_runtime_corejs2_regenerator__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_corejs2_regenerator__WEBPACK_IMPORTED_MODULE_6__);
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/defineProperty */ "./node_modules/@babel/runtime-corejs2/helpers/esm/defineProperty.js");
+/* harmony import */ var antd_lib_spin__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! antd/lib/spin */ "./node_modules/antd/lib/spin/index.js");
+/* harmony import */ var antd_lib_spin__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(antd_lib_spin__WEBPACK_IMPORTED_MODULE_8__);
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/extends */ "./node_modules/@babel/runtime-corejs2/helpers/esm/extends.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_10__);
+/* harmony import */ var next_app__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! next/app */ "./node_modules/next/app.js");
+/* harmony import */ var next_app__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(next_app__WEBPACK_IMPORTED_MODULE_11__);
+/* harmony import */ var antd_dist_antd_css__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! antd/dist/antd.css */ "./node_modules/antd/dist/antd.css");
+/* harmony import */ var antd_dist_antd_css__WEBPACK_IMPORTED_MODULE_12___default = /*#__PURE__*/__webpack_require__.n(antd_dist_antd_css__WEBPACK_IMPORTED_MODULE_12__);
+/* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ../components/Layout */ "./components/Layout.jsx");
+/* harmony import */ var react_redux__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! react-redux */ "./node_modules/react-redux/es/index.js");
+/* harmony import */ var _lib_with_redux__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ../lib/with-redux */ "./lib/with-redux.js");
+/* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! next/router */ "./node_modules/next/dist/client/router.js");
+/* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_16___default = /*#__PURE__*/__webpack_require__.n(next_router__WEBPACK_IMPORTED_MODULE_16__);
+/* harmony import */ var _lib_json__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ../lib/json */ "./lib/json.js");
+/* harmony import */ var _lib_json__WEBPACK_IMPORTED_MODULE_17___default = /*#__PURE__*/__webpack_require__.n(_lib_json__WEBPACK_IMPORTED_MODULE_17__);
 
 
-var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
-// import App from 'next/app'
 
 
 
 
 
 
-console.log("in _app".concat(false));
+
+
+
+var __jsx = react__WEBPACK_IMPORTED_MODULE_10___default.a.createElement;
+
+function ownKeys(object, enumerableOnly) { var keys = _babel_runtime_corejs2_core_js_object_keys__WEBPACK_IMPORTED_MODULE_5___default()(object); if (_babel_runtime_corejs2_core_js_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_4___default.a) { var symbols = _babel_runtime_corejs2_core_js_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_4___default()(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return _babel_runtime_corejs2_core_js_object_get_own_property_descriptor__WEBPACK_IMPORTED_MODULE_3___default()(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
+
+function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i] != null ? arguments[i] : {}; if (i % 2) { ownKeys(Object(source), true).forEach(function (key) { Object(_babel_runtime_corejs2_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_7__["default"])(target, key, source[key]); }); } else if (_babel_runtime_corejs2_core_js_object_get_own_property_descriptors__WEBPACK_IMPORTED_MODULE_2___default.a) { _babel_runtime_corejs2_core_js_object_define_properties__WEBPACK_IMPORTED_MODULE_1___default()(target, _babel_runtime_corejs2_core_js_object_get_own_property_descriptors__WEBPACK_IMPORTED_MODULE_2___default()(source)); } else { ownKeys(Object(source)).forEach(function (key) { _babel_runtime_corejs2_core_js_object_define_property__WEBPACK_IMPORTED_MODULE_0___default()(target, key, _babel_runtime_corejs2_core_js_object_get_own_property_descriptor__WEBPACK_IMPORTED_MODULE_3___default()(source, key)); }); } } return target; }
+
+
+ //add global css
+
+
+
+
+
+
+
+var cached_colors = null;
+var isServer = false;
 
 function MyApp(_ref) {
   var Component = _ref.Component,
       pageProps = _ref.pageProps,
-      reduxStore = _ref.reduxStore;
+      reduxStore = _ref.reduxStore,
+      colors = _ref.colors;
 
-  var _useState = Object(react__WEBPACK_IMPORTED_MODULE_1__["useState"])(false),
+  //Keeping state when navigating pages
+  var _useState = Object(react__WEBPACK_IMPORTED_MODULE_10__["useState"])(false),
       loading = _useState[0],
       setLoading = _useState[1];
 
@@ -58075,26 +58409,75 @@ function MyApp(_ref) {
     setLoading(false);
   };
 
-  Object(react__WEBPACK_IMPORTED_MODULE_1__["useEffect"])(function () {
-    next_router__WEBPACK_IMPORTED_MODULE_6___default.a.events.on('routeChangeStart', startLoading);
-    next_router__WEBPACK_IMPORTED_MODULE_6___default.a.events.on('routeChangeComplete', stopLoading);
-    next_router__WEBPACK_IMPORTED_MODULE_6___default.a.events.on('routeChangeError', stopLoading);
+  Object(react__WEBPACK_IMPORTED_MODULE_10__["useEffect"])(function () {
+    next_router__WEBPACK_IMPORTED_MODULE_16___default.a.events.on('routeChangeStart', startLoading);
+    next_router__WEBPACK_IMPORTED_MODULE_16___default.a.events.on('routeChangeComplete', stopLoading);
+    next_router__WEBPACK_IMPORTED_MODULE_16___default.a.events.on('routeChangeError', stopLoading);
     return function () {
-      next_router__WEBPACK_IMPORTED_MODULE_6___default.a.events.off('routeChangeStart', startLoading);
-      next_router__WEBPACK_IMPORTED_MODULE_6___default.a.events.off('routeChangeComplete', stopLoading);
-      next_router__WEBPACK_IMPORTED_MODULE_6___default.a.events.off('routeChangeError', stopLoading);
+      next_router__WEBPACK_IMPORTED_MODULE_16___default.a.events.off('routeChangeStart', startLoading);
+      next_router__WEBPACK_IMPORTED_MODULE_16___default.a.events.off('routeChangeComplete', stopLoading);
+      next_router__WEBPACK_IMPORTED_MODULE_16___default.a.events.off('routeChangeError', stopLoading);
     };
   }, []);
-  return __jsx(react_redux__WEBPACK_IMPORTED_MODULE_4__["Provider"], {
+  Object(react__WEBPACK_IMPORTED_MODULE_10__["useEffect"])(function () {
+    if (!isServer) {
+      cached_colors = colors;
+    }
+  }, [colors]);
+  return __jsx(react_redux__WEBPACK_IMPORTED_MODULE_14__["Provider"], {
     store: reduxStore
-  }, __jsx(_components_Layout__WEBPACK_IMPORTED_MODULE_3__["default"], null, __jsx(antd_lib_spin__WEBPACK_IMPORTED_MODULE_0___default.a, {
-    tip: "\u52A0\u8F7D\u4E2D...",
+  }, __jsx(_components_Layout__WEBPACK_IMPORTED_MODULE_13__["default"], null, __jsx(antd_lib_spin__WEBPACK_IMPORTED_MODULE_8___default.a, {
+    tip: "loading...",
     spinning: loading
-  }, __jsx(Component, pageProps))));
-} // MyApp.getInitialProps = async (appContext) => {}
+  }, __jsx(Component, Object(_babel_runtime_corejs2_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_9__["default"])({}, pageProps, {
+    colors: colors
+  })))));
+} //define this method because blocking data requirements are needed
+//for every single page in this application
 
 
-/* harmony default export */ __webpack_exports__["default"] = (Object(_lib_with_redux__WEBPACK_IMPORTED_MODULE_5__["default"])(MyApp));
+MyApp.getInitialProps = function _callee(appContext) {
+  var appProps, colorsResp;
+  return _babel_runtime_corejs2_regenerator__WEBPACK_IMPORTED_MODULE_6___default.a.async(function _callee$(_context) {
+    while (1) {
+      switch (_context.prev = _context.next) {
+        case 0:
+          _context.next = 2;
+          return _babel_runtime_corejs2_regenerator__WEBPACK_IMPORTED_MODULE_6___default.a.awrap(next_app__WEBPACK_IMPORTED_MODULE_11___default.a.getInitialProps(appContext));
+
+        case 2:
+          appProps = _context.sent;
+
+          if (!cached_colors) {
+            _context.next = 5;
+            break;
+          }
+
+          return _context.abrupt("return", _objectSpread({}, appProps, {
+            colors: cached_colors
+          }));
+
+        case 5:
+          _context.next = 7;
+          return _babel_runtime_corejs2_regenerator__WEBPACK_IMPORTED_MODULE_6___default.a.awrap(_lib_json__WEBPACK_IMPORTED_MODULE_17___default.a.request({
+            url: '/colors'
+          }));
+
+        case 7:
+          colorsResp = _context.sent;
+          return _context.abrupt("return", _objectSpread({}, appProps, {
+            colors: colorsResp.data
+          }));
+
+        case 9:
+        case "end":
+          return _context.stop();
+      }
+    }
+  });
+};
+
+/* harmony default export */ __webpack_exports__["default"] = (Object(_lib_with_redux__WEBPACK_IMPORTED_MODULE_15__["default"])(MyApp));
 
 /***/ }),
 

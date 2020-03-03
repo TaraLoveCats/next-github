@@ -4,7 +4,7 @@ module.exports = (server) => {
     server.use(async (ctx, next) => {
         const { path } = ctx
         if (path.startsWith('/github/')) {
-            const { session } = ctx
+            const { session, method } = ctx
             const githubAuth = session && session.githubAuth
             const token = githubAuth && githubAuth.access_token
             let headers = {}

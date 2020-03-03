@@ -18,32 +18,32 @@ const githubIconStyle = {
     marginRight: 20,
 }
 
-const AppLayout = ({ children }) => {
-    const router = useRouter()
-    const urlQuery = router.query && router.query.query
-    const [search, setSearch] = useState(urlQuery || '')
-    const user = useSelector(state => state.user)
-    const dispatch = useDispatch()
+function AppLayout({ children }) {
+    const router = useRouter();
+    const urlQuery = router.query && router.query.q;
+    const [search, setSearch] = useState(urlQuery || '');
+    const user = useSelector(state => state.user);
+    const dispatch = useDispatch();
 
     const handleSearchChange = useCallback((e) => {
         setSearch(e.target.value)
-    }, [])
+    }, []);
 
     const handleOnSearch = useCallback(() => {
-        router.push(`/search?query=${search}`)
-    }, [search])
+        router.push(`/search?q=${search}`)
+    }, [search]);
 
     const handleLogout = useCallback(() => {
         dispatch(logout())
-    },[])
+    },[]);
 
     const userDropdown = (
         <Menu onClick={handleLogout}> 
             <Menu.Item>
-                登出
+                log out
             </Menu.Item>
         </Menu>
-    )
+    );
 
     return (
         <Layout>
@@ -51,13 +51,15 @@ const AppLayout = ({ children }) => {
                 <Container renderer={<div className="header-inner"/>}>
                     <div className="header-left">
                         <div className="logo">
-                            {/* <Link href="/"> */}
-                                <Icon type="github" style={githubIconStyle} />
-                            {/* </Link> */}
+                            <Link href="/">
+                                <a>
+                                    <Icon type="github" style={githubIconStyle} />
+                                </a>
+                            </Link>
                         </div>
                         <div>
                             <Input.Search 
-                                placeholder="搜索或跳转..."
+                                placeholder="Search or jump to..."
                                 value={search}
                                 onChange={handleSearchChange}
                                 onSearch={handleOnSearch}
@@ -71,7 +73,7 @@ const AppLayout = ({ children }) => {
                                     <Avatar size={40} src={user.avatar_url} />
                                 </Dropdown>
                             ) : (
-                                <Tooltip title="点击登录">
+                                <Tooltip title="Click to log in">
                                     <a href={`/prepare-auth?url=${router.asPath}`}>
                                         <Avatar size={40} icon="user" />
                                     </a>
