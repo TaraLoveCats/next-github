@@ -3,7 +3,6 @@ import { memo, isValidElement, useEffect } from 'react'
 import { Row, Col, List, Pagination, Statistic, Icon } from 'antd'
 import Link from 'next/link'
 import Repo from '../components/Repo'
-import data from '../testData'
 import { cacheArray } from '../lib/repo-basic-cache'
 const api = require('../lib/api')
 
@@ -245,6 +244,6 @@ Search.getInitialProps = async ({ query, asPath, req, res }) => {
     }, req, res);
 
     return {
-        repos: result.data || data.react_repos
+        repos: result.data
     }
 }

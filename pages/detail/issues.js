@@ -6,7 +6,6 @@ import Markdown from '../../components/Markdown'
 import moment from 'moment'
 import SearchUser from '../../components/SearchUser'
 import LRU from 'lru-cache'
-import data from '../../testData'
 
 const { Option } = Select;
 const labelsCache = new LRU({
@@ -265,7 +264,7 @@ Issues.getInitialProps = async ({ query, req, res }) => {
         const issuesResp = await api.request({
             url: `/repos/${owner}/${name}/issues`
         }, req, res);
-        issues = issuesResp.data || data.react_issues;
+        issues = issuesResp.data;
         if (!isServer) {
             issuesCache.set(fullName, issues);
         }
