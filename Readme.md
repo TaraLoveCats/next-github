@@ -80,6 +80,7 @@ session默认存储在cookie中，有以下缺点：
 
 ### 授权页
 ![授权页.png](https://github.com/TaraLoveCats/next-github/raw/master/screenshots/auth.png)
+
 ![授权跳转.png](https://github.com/TaraLoveCats/next-github/raw/master/screenshots/redirect.png)
 
 ### 搜索结果
@@ -91,6 +92,7 @@ session默认存储在cookie中，有以下缺点：
 #### 选择语言和排序
 
 ![搜索结果.png](https://github.com/TaraLoveCats/next-github/raw/master/screenshots/lang_sort.png)
+
 ![搜索结果.png](https://github.com/TaraLoveCats/next-github/raw/master/screenshots/lang_sort2.png)
 
 ### 仓库详情
@@ -99,16 +101,19 @@ session默认存储在cookie中，有以下缺点：
 
 暂时只展示readme
 
-![readme.png](https://github.com/TaraLoveCats/next-github/raw/master/screenshots/readme_index.png)
+![readme.png](https://github.com/TaraLoveCats/next-github/raw/master/screenshots/index_readme.png)
 
 #### Issues页
 
 issues列表展示及详情
 ![issues.png](https://github.com/TaraLoveCats/next-github/raw/master/screenshots/issues.png)
+
 ![issues详情.png](https://github.com/TaraLoveCats/next-github/raw/master/screenshots/issues.png)
 
 根据条件搜索issues
+
 ![issues搜索.png](https://github.com/TaraLoveCats/next-github/raw/master/screenshots/issues_search.png)
+
 ![issues搜索.png](https://github.com/TaraLoveCats/next-github/raw/master/screenshots/issues_search2.png)
 
 ## 目录结构
@@ -142,7 +147,7 @@ next-github
 ├── store                                       ---redux store
 │   └── store.js                        
 ├── .babelrc                                    ---babel配置
-├── colors.json                                 ---github语言和颜色JSON
+├── colors.json                                 ---github语言和对应颜色JSON
 ├── config.js                                   ---配置
 ├── next.config.js                              ---next server配置
 ├── package.json
