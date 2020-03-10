@@ -92,7 +92,7 @@ session默认存储在cookie中，有以下缺点：
 #### 选择语言和排序
 
 ![搜索结果.png](https://github.com/TaraLoveCats/next-github/raw/master/screenshots/lang_sort.png)
-
+___
 ![搜索结果.png](https://github.com/TaraLoveCats/next-github/raw/master/screenshots/lang_sort2.png)
 
 ### 仓库详情
@@ -105,15 +105,17 @@ session默认存储在cookie中，有以下缺点：
 
 #### Issues页
 
-issues列表展示及详情
+issues列表展示
 ![issues.png](https://github.com/TaraLoveCats/next-github/raw/master/screenshots/issues.png)
 
-![issues详情.png](https://github.com/TaraLoveCats/next-github/raw/master/screenshots/issues.png)
+详情
+
+![issues详情.png](https://github.com/TaraLoveCats/next-github/raw/master/screenshots/issues_detail.png)
 
 根据条件搜索issues
 
 ![issues搜索.png](https://github.com/TaraLoveCats/next-github/raw/master/screenshots/issues_search.png)
-
+___
 ![issues搜索.png](https://github.com/TaraLoveCats/next-github/raw/master/screenshots/issues_search2.png)
 
 ## 目录结构
