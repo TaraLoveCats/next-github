@@ -61,11 +61,9 @@ const FilterLink = memo(({ name, q, lang, sort, order, page }) => {
 export default function Search({ repos = initRepos, colors }) {
     const router = useRouter();
     const { ...querys } = router.query;
-    console.log(querys)
     Object.keys(querys).forEach(key => {
         querys[key] = decodeURIComponent(querys[key]);
     })
-    console.log(querys)
     const { q, sort, order, lang, page } = querys;
 
     useEffect(() => {
@@ -156,7 +154,7 @@ export default function Search({ repos = initRepos, colors }) {
                         <Statistic value={repos.total_count} />
                         <span>&nbsp;repository results</span>
                     </h3>
-                    {repos.items.map(repo => (
+                    {repos.items && repos.items.map(repo => (
                         <Repo repo={repo} key={repo.id} colors={colors} />
                     ))}
                     <div className="pagination">
@@ -215,22 +213,18 @@ export default function Search({ repos = initRepos, colors }) {
 
 Search.getInitialProps = async ({ query, asPath, req, res }) => {
     console.log('Search getInitialProps called');
-    console.log(query)
     if (!query.q) {
         return {
             repos: initRepos
         }
     }
-    console.log(asPath)
     
     const queryArr = asPath.split('?')[1].split('&');
-    console.log(queryArr)
     const queryObj = queryArr.reduce((obj, entry) => {
         const entryArr = entry.split('=');
         obj[entryArr[0]] = encodeURIComponent(entryArr[1]); //C++ -> C%2B%2B
         return obj; 
     }, {});
-    console.log(queryObj)
     const { q, lang, sort, order, page, per_page} = queryObj;
     // ?q=react+language:javascript&sort=stars&order=desc&page=2
     let queryString = `?q=${q}`;

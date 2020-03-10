@@ -110,7 +110,7 @@ function IssueItem({ issue }) {
                     </h6>
                     <p className="sub-info">
                         <span>
-                           #{issue.number} opened on {moment(issue.created_at).format("LL")} by {issue.user.login}
+                           #{issue.number} opened on {moment(issue.created_at).format("LL")} by {issue.user && issue.user.login}
                         </span>
                     </p>
                     <Button

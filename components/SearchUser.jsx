@@ -12,7 +12,7 @@ export default function SearchUser({ onChange, value }) {
     const [options, setOptions] = useState([]);
 
     const handleChange = (value) => {
-        setOptions({});
+        setOptions([]);
         setFetching(false);
         onChange(value);
     }
