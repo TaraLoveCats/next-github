@@ -75,13 +75,19 @@ session默认存储在cookie中，有以下缺点：
 
 
 ## 截图
-### 首页
-![用户首页.png](https://github.com/TaraLoveCats/next-github/raw/master/screenshots/stars.png)
+
+### 登录页
+
+![登录页.png](https://github.com/TaraLoveCats/next-github/raw/master/screenshots/login.png)
 
 ### 授权页
 ![授权页.png](https://github.com/TaraLoveCats/next-github/raw/master/screenshots/auth.png)
-
+___
 ![授权跳转.png](https://github.com/TaraLoveCats/next-github/raw/master/screenshots/redirect.png)
+
+### 个人首页
+
+![用户首页.png](https://github.com/TaraLoveCats/next-github/raw/master/screenshots/stars.png)
 
 ### 搜索结果
 
