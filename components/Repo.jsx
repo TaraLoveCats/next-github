@@ -10,7 +10,7 @@ export default ({ repo, colors }) => {
 		<div className="root">
 			<div className="repo-info">
 				<h3>
-					<Link href={`/detail?owner=${repo.owner.login}&name=${repo.name}`}>
+					<Link href={`/detail?owner=${repo.owner && repo.owner.login}&name=${repo.name}`}>
                         <a>
                             <span className="repo-title-owner">{repo.owner.login}</span>
                             <span> / </span>

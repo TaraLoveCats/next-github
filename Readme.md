@@ -16,22 +16,20 @@
 
 OAuth的流程图如下：
 
-```
-+--------+                                +---------------+    
-|        | --(A)- Authorization Request ->|   Resource    |
-|        | <-(B)- Authorization Grant --  |    Owner      |
-|        |                                +---------------+
-|        |                 
-|        |                                +---------------+
-| Client | --(C)- Authorization Grant ->  | Authorization |
-|        | <-(D)----Access Token -------  |    Server     |
-|        |                                +---------------+
-|        |                               
-|        |                                +---------------+
-|        | --(E)-----Access Token------>  |  Resource     |
-|        | <-(F)-- Protected Resource --- |    Server     |
-+--------+                                +---------------+
-```
+    +--------+                                +---------------+    
+    |        | --(A)- Authorization Request ->|   Resource    |
+    |        | <-(B)- Authorization Grant --  |    Owner      |
+    |        |                                +---------------+
+    |        |                 
+    |        |                                +---------------+
+    | Client | --(C)- Authorization Grant ->  | Authorization |
+    |        | <-(D)----Access Token -------  |    Server     |
+    |        |                                +---------------+
+    |        |                               
+    |        |                                +---------------+
+    |        | --(E)-----Access Token------>  |  Resource     |
+    |        | <-(F)-- Protected Resource --- |    Server     |
+    +--------+                                +---------------+
 
 ## Redis存储
 
@@ -57,10 +55,10 @@ session默认存储在cookie中，有以下缺点：
 - redux-thunk
 - koa：server framework
 - koa-body：body parser middleware for koa
-- koa-router: router middleware for koa
+- koa-router：router middleware for koa
 - koa-session：session middleware for koa
 - axios
-- antd: UI
+- antd：UI
 - @zeit/next-css：Next项目中引入`.css`文件
 - lru-cache：缓存策略
 - ioredis：redis client for node

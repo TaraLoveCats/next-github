@@ -26,7 +26,14 @@ module.exports = server => {
 
             })
             console.log(result.status, result.data)
-
+            // result.data
+            /*
+                {
+                    access_token,
+                    token_type,
+                    scope
+                }
+            */
             if (result.status === 200 && (result.data && !result.data.error)) {
                 ctx.session.githubAuth = result.data
 
