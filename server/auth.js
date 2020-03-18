@@ -35,6 +35,7 @@ module.exports = server => {
                 }
             */
             if (result.status === 200 && (result.data && !result.data.error)) {
+                //用户数据存放在session中
                 ctx.session.githubAuth = result.data
 
                 const { access_token, token_type } = result.data

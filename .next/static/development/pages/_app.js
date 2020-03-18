@@ -42,7 +42,6 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "D:\\\u7F16\u7A0B\\\u9879\u76EE\\next\u9879\u76EE\\next-github\\components\\Container.jsx";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement;
 
@@ -65,13 +64,7 @@ var style = {
 /* harmony default export */ __webpack_exports__["default"] = (function (_ref) {
   var children = _ref.children,
       _ref$renderer = _ref.renderer,
-      renderer = _ref$renderer === void 0 ? __jsx("div", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 16
-    },
-    __self: this
-  }) : _ref$renderer;
+      renderer = _ref$renderer === void 0 ? __jsx("div", null) : _ref$renderer;
   //在使用时改变renderer节点类型，以及对props进行扩展
   var newElement = Object(react__WEBPACK_IMPORTED_MODULE_7__["cloneElement"])(renderer, {
     style: _objectSpread({}, style, {}, renderer.props.style),
@@ -445,6 +438,8 @@ function getOrCreateStore(initialState) {
 
           case 8:
             return _context.abrupt("return", _objectSpread({}, appProps, {
+              //数据会序列化后传给客户端，不能直接传递reduxStore（有方法）
+              //需要组件拿到初始数据后重新创建store
               initialReduxState: reduxStore.getState()
             }));
 

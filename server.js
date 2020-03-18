@@ -12,6 +12,7 @@ const json = require('./server/json')
 
 //设置node全局增加一个atob方法
 global.atob = atob;
+//redis client for node
 const redis = new Redis({
     port: 6379
 });
@@ -25,7 +26,7 @@ app.prepare().then(() => {
     const router = new Router()
 
     server.use(koaBody())
-    server.keys = ['Tara develop Github App'];//给cookie加密
+    server.keys = ['Tara develop Github App'];//cookie的签名secret
     const SESSION_CONFIG = {
         key: 'sid',
         store: new RedisSessionStore(redis),

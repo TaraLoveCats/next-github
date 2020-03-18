@@ -51,6 +51,8 @@ const FilterLink = memo(({ name, q, lang, sort, order, page }) => {
     page && (queryString += `&page=${page}`);
     queryString += `&per_page=${per_page}`;
     
+    //不用<a onClick />而是用href的方式是为了更好的SEO
+    //Link对应的是pages下的路由
     return (
         <Link href={`/search${queryString}`}> 
             {isValidElement(name) ? name : <a>{name}</a>}

@@ -8,6 +8,7 @@ const cache = new LRU({
     maxAge: 1000 * 60 * 60
 })
 function Detail({ readme }) {
+    //readme.content 是 base64 encoded
     return <Markdown content={readme.content} isBase64={true} />
 }
 

@@ -115,7 +115,6 @@ module.exports = JSON.parse("{\"1C Enterprise\":{\"color\":\"#814CCC\",\"url\":\
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "D:\\\u7F16\u7A0B\\\u9879\u76EE\\next\u9879\u76EE\\next-github\\components\\Container.jsx";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -139,13 +138,7 @@ const style = {
 
 /* harmony default export */ __webpack_exports__["default"] = (({
   children,
-  renderer = __jsx("div", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 16
-    },
-    __self: undefined
-  })
+  renderer = __jsx("div", null)
 }) => {
   //在使用时改变renderer节点类型，以及对props进行扩展
   const newElement = Object(react__WEBPACK_IMPORTED_MODULE_0__["cloneElement"])(renderer, {
@@ -444,6 +437,8 @@ function getOrCreateStore(initialState) {
     }
 
     return _objectSpread({}, appProps, {
+      //数据会序列化后传给客户端，不能直接传递reduxStore（有方法）
+      //需要组件拿到初始数据后重新创建store
       initialReduxState: reduxStore.getState()
     });
   };
