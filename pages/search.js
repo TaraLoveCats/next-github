@@ -60,11 +60,9 @@ const FilterLink = memo(({ name, q, lang, sort, order, page }) => {
     )
 });
 
-export default function Search({ repos = initRepos, colors }) {
-    const router = useRouter();
-    const { ...querys } = router.query;
+export default function Search({ repos = initRepos, colors, querys }) { 
     Object.keys(querys).forEach(key => {
-        querys[key] = decodeURIComponent(querys[key]);
+        querys[key] = decodeURIComponent(querys[key])
     })
     const { q, sort, order, lang, page } = querys;
 
@@ -240,6 +238,7 @@ Search.getInitialProps = async ({ query, asPath, req, res }) => {
     }, req, res);
 
     return {
-        repos: result.data
+        repos: result.data,
+        querys: queryObj
     }
 }
