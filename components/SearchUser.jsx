@@ -29,6 +29,7 @@ export default function SearchUser({ onChange, value }) {
         .then(resp => {
             console.log('user:', resp)
             if (fetchId !== lastFetchIdRef.current) {
+                //防抖
                 return;
             }
             const data = resp.data.items.map(user => ({

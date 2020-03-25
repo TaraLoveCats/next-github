@@ -9,10 +9,6 @@ const style = {
     paddingRight: 20,
 }
 
-// export default ({ children, comp: Comp = "div" }) => {
-//     return <Comp style={style}>{children}</Comp>
-// }
-
 export default ({ children, renderer=<div /> }) => {
     //在使用时改变renderer节点类型，以及对props进行扩展
     const newElement = cloneElement(renderer, {

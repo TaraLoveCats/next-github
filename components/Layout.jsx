@@ -84,8 +84,6 @@ function AppLayout({ children }) {
                 </Container>
             </Header>
             <Content>
-                {/* 改变组件的渲染类型，不能指定props */}
-                {/* <Container comp="div">{children}</Container> */}
                 <Container >{children}</Container>
             </Content>
             <Footer style={footerStyle}>
